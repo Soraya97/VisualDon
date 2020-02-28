@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Stats Pokémon</title>
+  <!-- <link rel="stylesheet" href="../../node_modules/"> -->
+</head>
+
+<body>
+  <!-- <h1>Pokémon</h1>
+  <img src="025.png"></img> -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script>
+    const DATA = [3, 8, 1, 9];
+
+    const div = d3.select('div');
+    div.append('h1').text('Titre');
+
+    div.selectAll('p').data(DATA).enter().append('p').attr('id', d => `id-${d}`).style('color', d => d>5? 'red':'green').text(d => `valeur: ${d}`);
+  </script>
+
+  <!-- <script src="index.js"></script> -->
+</body>
+
+</html>

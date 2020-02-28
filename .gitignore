@@ -2,3 +2,6 @@
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+node_modules
+.cache
+20200228/dist

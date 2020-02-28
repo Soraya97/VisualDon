@@ -1,0 +1,27 @@
+{
+  "name": "exercices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "batons:dev": "parcel 20200228/src/index.html --out-dir 20200228/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soraya97/VisualDon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soraya97/VisualDon/issues"
+  },
+  "homepage": "https://github.com/Soraya97/VisualDon#readme",
+  "dependencies": {
+    "billboard": "^1.0.0",
+    "d3": "^5.15.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
