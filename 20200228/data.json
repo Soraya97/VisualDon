@@ -1,0 +1,148 @@
+[
+  {
+    "Nom": "Chinchou",
+    "Type": [
+      "Water",
+      "Electric"
+    ],
+    "Stats": 330,
+    "Génération": 1
+  },
+  {
+    "Nom": "Lanturn",
+    "Type": [
+      "Water",
+      "Electric"
+    ],
+    "Stats": 460,
+    "Génération": 1
+  },
+  {
+    "Nom": "Joltik",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 319,
+    "Génération": 1
+  },
+  {
+    "Nom": "Galvantula",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 472,
+    "Génération": 1
+  },
+  {
+    "Nom": "Stunfisk",
+    "Type": [
+      "Ground",
+      "Electric"
+    ],
+    "Stats": 471,
+    "Génération": 1
+  },
+  {
+    "Nom": "Zekrom",
+    "Type": [
+      "Dragon",
+      "Electric"
+    ],
+    "Stats": 680,
+    "Génération": 1
+  },
+  {
+    "Nom": "Charjabug",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 400,
+    "Génération": 1
+  },
+  {
+    "Nom": "Vikavolt",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 500,
+    "Génération": 1
+  }
+]
+[
+  {
+    "Nom": "Chinchou",
+    "Type": [
+      "Water",
+      "Electric"
+    ],
+    "Stats": 330,
+    "Génération": 2
+  },
+  {
+    "Nom": "Lanturn",
+    "Type": [
+      "Water",
+      "Electric"
+    ],
+    "Stats": 460,
+    "Génération": 2
+  },
+  {
+    "Nom": "Joltik",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 319,
+    "Génération": 2
+  },
+  {
+    "Nom": "Galvantula",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 472,
+    "Génération": 2
+  },
+  {
+    "Nom": "Stunfisk",
+    "Type": [
+      "Ground",
+      "Electric"
+    ],
+    "Stats": 471,
+    "Génération": 2
+  },
+  {
+    "Nom": "Zekrom",
+    "Type": [
+      "Dragon",
+      "Electric"
+    ],
+    "Stats": 680,
+    "Génération": 2
+  },
+  {
+    "Nom": "Charjabug",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 400,
+    "Génération": 2
+  },
+  {
+    "Nom": "Vikavolt",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 500,
+    "Génération": 2
+  }
+]
