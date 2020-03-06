@@ -4,4 +4,4 @@
 **/._.DS_Store
 node_modules
 .cache
-20200228/dist
+**/dist
