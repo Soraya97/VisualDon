@@ -1,37 +1,76 @@
 import * as d3 from 'd3'
 
 const DATA = [{
-    Name: "Chinchou",
-    Stats: 330,
+    "Nom": "Chinchou",
+    "Type": [
+      "Water",
+      "Electric"
+    ],
+    "Stats": 330,
+    "Génération": 1
   },
   {
-    Name: "Lanturn",
-    Stats: 460,
+    "Nom": "Lanturn",
+    "Type": [
+      "Water",
+      "Electric"
+    ],
+    "Stats": 460,
+    "Génération": 1
   },
   {
-    Name: "Joltik",
-    Stats: 319,
+    "Nom": "Joltik",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 319,
+    "Génération": 1
   },
   {
-    Name: "Galvantula",
-    Stats: 472,
+    "Nom": "Galvantula",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 472,
+    "Génération": 1
   },
   {
-    Name: "Stunfisk",
-    Stats: 471,
+    "Nom": "Stunfisk",
+    "Type": [
+      "Ground",
+      "Electric"
+    ],
+    "Stats": 471,
+    "Génération": 1
   },
   {
-    Name: "Zekrom",
-
-    Stats: 680,
+    "Nom": "Zekrom",
+    "Type": [
+      "Dragon",
+      "Electric"
+    ],
+    "Stats": 680,
+    "Génération": 1
   },
   {
-    Name: "Charjabug",
-    Stats: 400,
+    "Nom": "Charjabug",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 400,
+    "Génération": 1
   },
   {
-    Name: "Vikavolt",
-    Stats: 500,
+    "Nom": "Vikavolt",
+    "Type": [
+      "Bug",
+      "Electric"
+    ],
+    "Stats": 500,
+    "Génération": 1
   }
 ]
 
@@ -58,7 +97,7 @@ const arcCreator = d3.arc()
 const color = ({
   data
 }) => {
-  switch (data.Name) {
+  switch (data.Nom) {
     case 'Chinchou':
       return 'Lavender'
     case 'Lanturn':
@@ -125,4 +164,4 @@ legend.selectAll('text')
   .attr('y', (d, i) => i * RECT_WIDTH + RECT_WIDTH * 0.75)
   .attr('width', RECT_WIDTH)
   .attr('height', RECT_WIDTH)
-  .text(d => d.data.Name)
+  .text(d => d.data.Nom)
