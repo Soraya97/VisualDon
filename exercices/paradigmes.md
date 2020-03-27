@@ -1,5 +1,3 @@
-## 
-
 # Paradigmes de programmation
 
 ## PF et POO

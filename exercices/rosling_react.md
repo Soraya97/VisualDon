@@ -31,6 +31,6 @@ La définition de l'emplacement des bulles diffèrent de d3. Dans la version ave
 
 > Comment les données sont elles jointes aux éléments DOM avec `react`?
 
-Dans le fichier HTML, il faut ajouter un <script> avec le fichier .jsx. 
+Dans le fichier HTML, il faut ajouter un <script> avec le fichier .jsx.
 
 `render` permet d'ajouter les données à un élément DOM choisi (`div`, par exemple).
