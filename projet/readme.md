@@ -4,7 +4,7 @@
 >
 > https://github.com/leyGir/VisualDon/tree/master/projet
 
-## Le jeu de données
+## Les jeux de données éventuels
 
 Nombre de cas et de morts dans le monde: https://data.world/kim4597/world-covid19
 
@@ -14,7 +14,7 @@ Nombre de morts par canton suisse: https://www.kaggle.com/daenuprobst/covid19-ca
 
 Nombre de cas en Italie: https://data.world/gbvitrano/test-covid-19/workspace/file?filename=dpc-covid19-ita-andamento-nazionale.json
 
-## L'idée
+## Les idées en vrac
 
 - Mentir sur le nombre de victimes et de guéris (falsification du graphique)
 - Prendre des données sur la grippe et faire croire qu'elle est plus mortelle
