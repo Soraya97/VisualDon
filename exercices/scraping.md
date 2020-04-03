@@ -29,4 +29,4 @@
 9. Pour avoir un épisode par ligne (il y a en 10 pour le moment), il faut utiliser `readline` avec une constante `reader`, qui lit ligne par ligne. 
 10. Il faut ensuite transformer les dates avec un même format, les durées également.
 11. Retirer ce qui est intéressant des segments et des épisodes.
-
+12. Lire à nouveau chaque ligne et finalement, faire un fichier avec tous les sujets, en lisant ligne par ligne et avec les paramètres voulus.
