@@ -9,7 +9,7 @@
     "batons-suite:dev": "parcel 20200306/batons_suite/src/index.html --out-dir 20200306/batons_suite/dist",
     "pokemon-barre": "parcel 20200306/src/index.html --out-dir 20200306/dist",
     "pokemon-camembert": "parcel 20200306/src/graphique-d3.html --out-dir 20200306/dist",
-    "carte": "parcel exercices/carte/src/carte.html --out-dir exercices/carte/dist"
+    "carte": "parcel 20200403/src/carte.html --out-dir 20200403/dist"
   },
   "repository": {
     "type": "git",
