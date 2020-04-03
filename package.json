@@ -8,7 +8,8 @@
     "batons:dev": "parcel 20200228/src/index.html --out-dir 20200228/dist",
     "batons-suite:dev": "parcel 20200306/batons_suite/src/index.html --out-dir 20200306/batons_suite/dist",
     "pokemon-barre": "parcel 20200306/src/index.html --out-dir 20200306/dist",
-    "pokemon-camembert": "parcel 20200306/src/graphique-d3.html --out-dir 20200306/dist"
+    "pokemon-camembert": "parcel 20200306/src/graphique-d3.html --out-dir 20200306/dist",
+    "carte": "parcel exercices/carte/src/carte.html --out-dir exercices/carte/dist"
   },
   "repository": {
     "type": "git",
@@ -22,7 +23,8 @@
   "homepage": "https://github.com/Soraya97/VisualDon#readme",
   "dependencies": {
     "billboard": "^1.0.0",
-    "d3": "^5.15.0",
+    "d3": "^5.15.1",
+    "d3-geo": "^1.11.9",
     "node-fetch": "^2.6.0",
     "ramda": "^0.27.0"
   },
