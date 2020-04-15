@@ -13,14 +13,16 @@ const yMax = 1295165
 const WIDTH = 1100
 const HEIGHT = width * ((yMax - yMin) / (xMax - xMin))
 
-const projection = d3.geoTransform({
+
+const projectX = x => (x - xMin) / (xMax - xMin) * WIDTH
+const projectY = y => HEIGHT - (y - yMin) / (yMax - yMin) * HEIGHT
+
+let projection = d3.geoTransform({
   point: function(x, y) {
-    this.stream.point(
-      (x - xMin) / (xMax - xMin) * WIDTH,
-      HEIGHT - (y - yMin) / (yMax - yMin) * HEIGHT
-    )
+    this.stream.point(projectX(x), projectY(y))
   }
-});
+})
+
 pathCreator = d3.geoPath().projection(projection)
 
 const svg = d3.select('body')
@@ -37,30 +39,29 @@ svg.selectAll('path')
   .attr('fill', 'PapayaWhip')
 
 
-// Point sur le Mont-sur-Lausanne
-const projectX = x => (x - xMin) / (xMax - xMin) * WIDTH
-const projectY = y => HEIGHT - (y - yMin) / (yMax - yMin) * HEIGHT
+// Points sur le Mont-sur-Lausanne et Yverdon
 
-const projectionPoint = d3.geoTransform({
-  point: function(x, y) {
-    this.stream.point(projectX(x), projectY(y)) // utiliser les fonctions
-  }
-})
-const pathCreatorPoint = d3.geoPath().projection(projectionPoint)
+let point = (x, y, name) => {
+  svg.append('circle')
+    .attr('cx', x)
+    .attr('cy', y)
+    .attr('r', 5)
+    .attr('fill', 'PaleVioletRed')
+    .on('mouseover', function(d) {
+      svg.append('text').text(name).attr('x', x).attr('y', y - 10).attr('text-anchor', 'middle').attr('fill', 'PaleVioletRed')
+    })
+}
 
-svg.selectAll('path')
-  .data(suisse.features)
-  .enter()
-  .append('path')
-  .attr('d', pathCreatorPoint)
-
-const mont = [2533555,1149818]
+const mont = [2533555, 1149818]
 
 const montX = projectX(mont[0])
 const montY = projectY(mont[1])
 
-svg.append('circle')
-  .attr('cx', montX)
-  .attr('cy', montY)
-  .attr('r', 5)
-  .attr('fill', 'PaleVioletRed')
+point(montX, montY, 'Le Mont')
+
+const yverdon = [2539070, 1181442]
+
+const yverdonX = projectX(yverdon[0])
+const yverdonY = projectY(yverdon[1])
+
+point(yverdonX, yverdonY, 'Yverdon')
