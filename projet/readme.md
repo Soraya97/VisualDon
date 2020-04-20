@@ -4,20 +4,11 @@
 >
 > https://github.com/leyGir/VisualDon/tree/master/projet
 
-## Les jeux de données éventuels
+## Jeu de données
 
-Nombre de cas et de morts dans le monde: https://data.world/kim4597/world-covid19
+Nombre d'infectés, de morts et de guéris par continent : https://docs.google.com/spreadsheets/d/1tjN4GNTzRV6nYWHu8xSLUM-rmyEwqrqpmpyOb6Je45I/edit#gid=717155371.
 
-Nombre de cas, de guéris et de morts dans le monde: https://data.world/chandrasekar/coronavirus
+## Idée
 
-Nombre de morts par canton suisse: https://www.kaggle.com/daenuprobst/covid19-cases-switzerland/version/46#covid19_cases_switzerland.csv (dans la même bibliothèque, y a des data sur la démographie)
+Représenter les courbes des infectés, des morts et des guéris selon les continents et selon une timeline interactive (dans ce genre-là: http://heig-datavis2020.surge.sh/20200327/rosling-d3/).
 
-Nombre de cas en Italie: https://data.world/gbvitrano/test-covid-19/workspace/file?filename=dpc-covid19-ita-andamento-nazionale.json
-
-## Les idées en vrac
-
-- Mentir sur le nombre de victimes et de guéris (falsification du graphique)
-- Prendre des données sur la grippe et faire croire qu'elle est plus mortelle
-- Comparer le nombre de morts du Covid-19 avec celui de la pollution et montrer que ce dernier baisse alors que l'autre augment
-- Montrer l'évolution jour après jour du virus en Suisse ou en Italie
-- Faire croire que le canton avec le plus de morts subit des pertes importantes par rapport à sa population (alors que peut-être pas, si on compte en pourcentage)
