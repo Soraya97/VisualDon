@@ -1,18 +1,6 @@
 import * as d3 from 'd3';
 import data from '../data/dataCovid19.json';
 
-/**
-https://github.com/d3/d3-shape#areas
-https://github.com/idris-maps/heig-datavis-2020/tree/master/modules/rosling/graphique_d3 // interaction avec des bulles
-https://observablehq.com/@idris-maps/visualisation-de-donnees?collection=@idris-maps/heig-visdom-2020 // Types de visualisation de données
-https://www.d3-graph-gallery.com/ // galerie de graphes avec d3
-https://www.d3-graph-gallery.com/graph/density_basic.html // graphe de densité avec d3
-https://www.datavis.fr/index.php?page=transition // affichage interactif
-https://www.datavis.fr/index.php?page=linearchart // dessiner une courbe
-https://www.datavis.fr/index.php?page=twolinearchart // dessiner deux courbes
-http://bl.ocks.org/phoebebright/3059392 // avoir des dates sur les axes
-*/
-
 const WIDTH = 1000
 const HEIGHT = 500
 const MARGIN = 5
