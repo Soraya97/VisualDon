@@ -14,7 +14,7 @@ Ce jeu de données a été réalisé par Nolanne Dunet (https://www.linkedin.com
 
 1. Les données ont été modifiées afin de faciliter l'extraction (https://github.com/Soraya97/VisualDon/blob/master/projet/data/COVID-19_StatistiquesPandemie.tsv)
 
-2. Un premier script `prepareData.js` (https://github.com/Soraya97/VisualDon/blob/master/projet/data/prepareData.js) a été créé afin d'extraire les informations afin d'avoir un objet JSON pour chaque valeur comme ceci `{"date":"2020-01-30","region":"Monde","indicateur":"infectés","valeur":9952}` (https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataBrut.json)
+2. Un premier script [`prepareData.js` ](https://github.com/Soraya97/VisualDon/blob/master/projet/data/prepareData.js) a été créé afin d'extraire les informations afin d'avoir un objet JSON pour chaque valeur comme ceci `{"date":"2020-01-30","region":"Monde","indicateur":"infectés","valeur":9952}` (https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataBrut.json)
 
 3. Un deuxième script [`toJSON.js` ](https://github.com/Soraya97/VisualDon/blob/master/projet/data/toJSON.js) a été fait afin d'extraire les bonnes données au final sous cette forme (https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataCovid19.json)
 
@@ -58,29 +58,20 @@ XXX
 
 https://github.com/d3/d3-shape#areas
 
-Interaction avec des bulles
-https://github.com/idris-maps/heig-datavis-2020/tree/master/modules/rosling/graphique_d3
+[Interaction avec des bulles](https://github.com/idris-maps/heig-datavis-2020/tree/master/modules/rosling/graphique_d3)
 
-Types de visualisation de données
-https://observablehq.com/@idris-maps/visualisation-de-donnees?collection=@idris-maps/heig-visdom-2020
+[Types de visualisation de données](https://observablehq.com/@idris-maps/visualisation-de-donnees?collection=@idris-maps/heig-visdom-2020)
 
-Galerie de graphes avec d3
-https://www.d3-graph-gallery.com/
+[Galerie de graphes avec d3](https://www.d3-graph-gallery.com/)
 
-Graphe de densité avec d3
-https://www.d3-graph-gallery.com/graph/density_basic.html
+[Graphe de densité avec d3](https://www.d3-graph-gallery.com/graph/density_basic.html)
 
-Affichage interactif
-https://www.datavis.fr/index.php?page=transition
+[Affichage interactif](https://www.datavis.fr/index.php?page=transition)
 
-Dessiner une courbe
-https://www.datavis.fr/index.php?page=linearchart
+[Dessiner une courbe](https://www.datavis.fr/index.php?page=linearchart)
 
-Dessiner deux courbes
-https://www.datavis.fr/index.php?page=twolinearchart
+[Dessiner deux courbes](https://www.datavis.fr/index.php?page=twolinearchart)
 
-Ajouter des dates sur les axes
-http://bl.ocks.org/phoebebright/3059392
+[Ajouter des dates sur les axes](http://bl.ocks.org/phoebebright/3059392)
 
-d3-line
-https://observablehq.com/@d3/d3-line
+[d3-line](https://observablehq.com/@d3/d3-line)
