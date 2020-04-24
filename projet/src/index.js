@@ -13,11 +13,19 @@ const svg = d3.select('.covid')
 const MARGIN_LEFT = 100
 const MARGIN_BOTTOM = 50
 
+svg.append("text")
+    .attr("x", MARGIN_LEFT )
+    .attr("y", MARGIN_BOTTOM)
+    .attr("text-anchor", "start")
+    .style("fill", "black")
+    .style("font-weight", "300")
+    .style("font-size", "16px")
+    .text("Courbe des guéris");
 
 //** AXIS **//
 /* Y axis */
 const yScale = d3.scaleLinear()
-  .domain([0, d3.max(data, d => d.Monde.infectés)]) // ce qui est marqué sur l'axe
+  .domain([0, d3.max(data, d => d.Monde.guéris)]) // ce qui est marqué sur l'axe
   .range([HEIGHT - MARGIN_BOTTOM, 0]) // où l'axe est placé
 
 const yAxis = d3.axisLeft(yScale)
@@ -71,13 +79,13 @@ svg.append("text")
 //   .append('rect')
 //   .attr('x', (d, i) =>  i * ((WIDTH - MARGIN_LEFT) / data.length))
 //   .attr('width', ((WIDTH - MARGIN_LEFT) / data.length) - MARGIN)
-//   .attr('y', d => yScale(d.Monde.morts))
-//   .attr('height', d => HEIGHT - MARGIN_BOTTOM - yScale(d.Monde.morts))
+//   .attr('y', d => yScale(d.Monde.guéris))
+//   .attr('height', d => HEIGHT - MARGIN_BOTTOM - yScale(d.Monde.guéris))
 //   .attr('fill', 'steelblue')
 
 const line = d3.line()
   .x(d => xScale(d.date))
-  .y(d => yScale(d.Monde.morts));
+  .y(d => yScale(d.Monde.guéris));
 
 svg.selectAll('yaxis')
   .data(data)
