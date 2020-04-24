@@ -16,7 +16,7 @@ Ce jeu de données a été réalisé par Nolanne Dunet à titre personnel.
 
 2. Un premier script 
 
-   [prepareData.js]: https://github.com/Soraya97/VisualDon/blob/master/projet/data/prepareData.js
+   [prepareData.js]: https://github.com/Soraya97/VisualDon/blob/master/projet/data/prepareData.js	"prepareData.js"
 
     a été créé afin d'extraire les informations afin d'avoir un objet JSON pour chaque valeur comme ceci `{"date":"2020-01-30","region":"Monde","indicateur":"infectés","valeur":9952}` (https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataBrut.json)
 
