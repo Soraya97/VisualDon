@@ -8,6 +8,44 @@
 Nombre d'infectés, de morts et de guéris du Covid-19 par continent et dans le monde :
 https://docs.google.com/spreadsheets/d/1tjN4GNTzRV6nYWHu8xSLUM-rmyEwqrqpmpyOb6Je45I/edit#gid=717155371.
 
+Ce jeu de données a été réalisé par Nolanne Dunet à titre personnel.
+
+## Transformation des données
+
+1. Les données ont été modifiées afin de faciliter l'extraction (https://github.com/Soraya97/VisualDon/blob/master/projet/data/COVID-19_StatistiquesPandemie.tsv)
+
+2. Un premier script 
+
+   [prepareData.js]: https://github.com/Soraya97/VisualDon/blob/master/projet/data/prepareData.js
+
+    a été créé afin d'extraire les informations afin d'avoir un objet JSON pour chaque valeur comme ceci `{"date":"2020-01-30","region":"Monde","indicateur":"infectés","valeur":9952}` (https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataBrut.json)
+
+3. Un deuxième script 
+
+   [toJSON.js]: https://github.com/Soraya97/VisualDon/blob/master/projet/data/toJSON.js
+
+    a été fait afin d'extraire les bonnes données au final sous cette forme
+
+   ```json
+   [
+   {
+       "date": "2019-12-16",
+       "Afrique": {
+         "infectés": 0,
+         "morts": 0,
+         "guéris": 0
+       },
+       "Amérique": {
+         "infectés": 0,
+         "morts": 0,
+         "guéris": 0
+       }
+   }
+   ]
+   ```
+
+   
+
 ## Idée
 
 L'idée est de représenter les courbes des infectés, des morts et des guéris par continents et selon une timeline interactive (dans ce genre-là: http://heig-datavis2020.surge.sh/20200327/rosling-d3/).
