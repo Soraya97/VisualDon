@@ -5,18 +5,20 @@
 
 ## Jeu de données
 
-Nombre d'infectés, de morts et de guéris du Covid-19 par continent et dans le monde :
-https://docs.google.com/spreadsheets/d/1tjN4GNTzRV6nYWHu8xSLUM-rmyEwqrqpmpyOb6Je45I/edit#gid=717155371.
+[Nombre d'infectés, de morts et de guéris du Covid-19 par continent et dans le monde](https://docs.google.com/spreadsheets/d/1tjN4GNTzRV6nYWHu8xSLUM-rmyEwqrqpmpyOb6Je45I/edit#gid=717155371)
 
-Ce jeu de données a été réalisé par Nolanne Dunet (https://www.linkedin.com/in/noirdelune/) à titre personnel.
+Ce jeu de données a été réalisé par [Nolanne Dunet](https://www.linkedin.com/in/noirdelune/) à titre personnel.
 
 ## Transformation des données
 
-1. Les données ont été modifiées afin de faciliter l'extraction (https://github.com/Soraya97/VisualDon/blob/master/projet/data/COVID-19_StatistiquesPandemie.tsv)
+1. Les données ont été [modifiées](https://github.com/Soraya97/VisualDon/blob/master/projet/data/oldData/COVID-19_StatistiquesPandemie.tsv) une première fois afin de faciliter l'extraction.
 
-2. Un premier script [`prepareData.js` ](https://github.com/Soraya97/VisualDon/blob/master/projet/data/prepareData.js) a été créé afin d'extraire les informations afin d'avoir un objet JSON pour chaque valeur comme ceci `{"date":"2020-01-30","region":"Monde","indicateur":"infectés","valeur":9952}` (https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataBrut.json)
+2.  Les données représente le nombre total de victimes accumulées depuis le début de la pandémie, ce qui donnait une courbe exponentielle. ![image-20200429200836526](C:\Users\soray\AppData\Roaming\Typora\typora-user-images\image-20200429200836526.png)Une deuxième modification a alors été faite en soustrayant le nombre de victimes d'un jour à la veille afin d'avoir le [nombre de nouvelles victimes par jour](https://github.com/Soraya97/VisualDon/blob/master/projet/data/COVID-19_StatsPandemie.tsv) et ainsi pouvoir présenter la fluctuation du nombre de victimes.
+   ![image-20200429200854720](C:\Users\soray\AppData\Roaming\Typora\typora-user-images\image-20200429200854720.png)
 
-3. Un deuxième script [`toJSON.js` ](https://github.com/Soraya97/VisualDon/blob/master/projet/data/toJSON.js) a été fait afin d'extraire les bonnes données au final sous cette forme (https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataCovid19.json)
+3. Un premier script [`prepareData.js` ](https://github.com/Soraya97/VisualDon/blob/master/projet/data/prepareData.js) a été créé afin d'extraire les informations afin d'avoir un objet JSON pour chaque valeur comme ceci `{"date":"2020-01-30","region":"Monde","indicateur":"infectés","valeur":9952}`, ce qui donne un [premier jeu de données](https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataBrut.json)
+
+4. Un deuxième script [`toJSON.js` ](https://github.com/Soraya97/VisualDon/blob/master/projet/data/toJSON.js) a été fait afin d'extraire les bonnes données au final sous cette forme et donne ainsi les [données finales](https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataCovid19.json)
 
    ```json
    [
@@ -36,11 +38,9 @@ Ce jeu de données a été réalisé par Nolanne Dunet (https://www.linkedin.com
    ]
    ```
 
-
-
 ## Idée
 
-L'idée est de représenter les courbes des infectés, des morts et des guéris par continents et selon une timeline interactive (dans ce genre-là: http://heig-datavis2020.surge.sh/20200327/rosling-d3/).
+L'idée est de représenter les courbes des infectés, des morts et des guéris par continents de façon animée.
 
 ## Code source
 
@@ -56,7 +56,7 @@ XXX
 
 ## Liens utiles
 
-https://github.com/d3/d3-shape#areas
+[d3-area](https://github.com/d3/d3-shape#areas)
 
 [Interaction avec des bulles](https://github.com/idris-maps/heig-datavis-2020/tree/master/modules/rosling/graphique_d3)
 
