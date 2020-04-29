@@ -50,7 +50,7 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 41,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
@@ -65,7 +65,7 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 41,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
@@ -88,7 +88,7 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 41,
+      "infectés": 0,
       "morts": 1,
       "guéris": 0
     },
@@ -103,7 +103,7 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 41,
+      "infectés": 0,
       "morts": 1,
       "guéris": 0
     },
@@ -126,8 +126,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 41,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -141,8 +141,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 41,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -164,8 +164,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 41,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -179,8 +179,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 41,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -202,8 +202,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 41,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -217,8 +217,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 41,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -240,8 +240,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 42,
-      "morts": 1,
+      "infectés": 1,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -255,8 +255,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 42,
-      "morts": 1,
+      "infectés": 1,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -278,8 +278,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 42,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -293,8 +293,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 42,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -316,8 +316,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 43,
-      "morts": 1,
+      "infectés": 1,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -331,8 +331,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 43,
-      "morts": 1,
+      "infectés": 1,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -354,8 +354,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 43,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -369,8 +369,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 43,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -392,8 +392,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 43,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -407,8 +407,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 43,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -430,8 +430,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 43,
-      "morts": 2,
+      "infectés": 0,
+      "morts": 1,
       "guéris": 0
     },
     "Autres": {
@@ -445,8 +445,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 43,
-      "morts": 2,
+      "infectés": 0,
+      "morts": 1,
       "guéris": 0
     },
     "Océanie": {
@@ -468,8 +468,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 43,
-      "morts": 2,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Autres": {
@@ -483,8 +483,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 43,
-      "morts": 2,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Océanie": {
@@ -506,8 +506,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 282,
-      "morts": 6,
+      "infectés": 239,
+      "morts": 4,
       "guéris": 0
     },
     "Autres": {
@@ -521,8 +521,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 282,
-      "morts": 6,
+      "infectés": 239,
+      "morts": 4,
       "guéris": 0
     },
     "Océanie": {
@@ -544,8 +544,8 @@
       "guéris": 0
     },
     "Asie": {
-      "infectés": 331,
-      "morts": 6,
+      "infectés": 49,
+      "morts": 0,
       "guéris": 25
     },
     "Autres": {
@@ -559,8 +559,8 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 332,
-      "morts": 6,
+      "infectés": 50,
+      "morts": 0,
       "guéris": 25
     },
     "Océanie": {
@@ -577,14 +577,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 1,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 554,
-      "morts": 8,
-      "guéris": 28
+      "infectés": 223,
+      "morts": 2,
+      "guéris": 3
     },
     "Autres": {
       "infectés": 0,
@@ -597,9 +597,9 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 555,
-      "morts": 8,
-      "guéris": 28
+      "infectés": 223,
+      "morts": 2,
+      "guéris": 3
     },
     "Océanie": {
       "infectés": 0,
@@ -615,14 +615,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 1,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 648,
-      "morts": 16,
-      "guéris": 30
+      "infectés": 94,
+      "morts": 8,
+      "guéris": 2
     },
     "Autres": {
       "infectés": 0,
@@ -635,9 +635,9 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 649,
-      "morts": 16,
-      "guéris": 30
+      "infectés": 94,
+      "morts": 8,
+      "guéris": 2
     },
     "Océanie": {
       "infectés": 0,
@@ -653,14 +653,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 2,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 934,
-      "morts": 25,
-      "guéris": 36
+      "infectés": 286,
+      "morts": 9,
+      "guéris": 6
     },
     "Autres": {
       "infectés": 0,
@@ -673,9 +673,9 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 939,
-      "morts": 25,
-      "guéris": 36
+      "infectés": 290,
+      "morts": 9,
+      "guéris": 6
     },
     "Océanie": {
       "infectés": 3,
@@ -691,14 +691,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 2,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 2065,
-      "morts": 40,
-      "guéris": 49
+      "infectés": 1131,
+      "morts": 15,
+      "guéris": 13
     },
     "Autres": {
       "infectés": 0,
@@ -711,12 +711,12 @@
       "guéris": 0
     },
     "Monde": {
-      "infectés": 2074,
-      "morts": 40,
-      "guéris": 49
+      "infectés": 1135,
+      "morts": 15,
+      "guéris": 13
     },
     "Océanie": {
-      "infectés": 4,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     }
@@ -729,14 +729,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 6,
+      "infectés": 4,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 2797,
-      "morts": 80,
-      "guéris": 54
+      "infectés": 732,
+      "morts": 40,
+      "guéris": 5
     },
     "Autres": {
       "infectés": 0,
@@ -744,17 +744,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 3,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 2810,
-      "morts": 80,
-      "guéris": 54
+      "infectés": 736,
+      "morts": 40,
+      "guéris": 5
     },
     "Océanie": {
-      "infectés": 4,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -767,14 +767,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 7,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 4577,
-      "morts": 107,
-      "guéris": 63
+      "infectés": 1780,
+      "morts": 27,
+      "guéris": 9
     },
     "Autres": {
       "infectés": 0,
@@ -782,17 +782,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 4,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 4593,
-      "morts": 107,
-      "guéris": 63
+      "infectés": 1783,
+      "morts": 27,
+      "guéris": 9
     },
     "Océanie": {
-      "infectés": 5,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     }
@@ -805,14 +805,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 8,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 6154,
-      "morts": 133,
-      "guéris": 110
+      "infectés": 1577,
+      "morts": 26,
+      "guéris": 47
     },
     "Autres": {
       "infectés": 0,
@@ -820,17 +820,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 8,
+      "infectés": 4,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 6177,
-      "morts": 133,
-      "guéris": 110
+      "infectés": 1584,
+      "morts": 26,
+      "guéris": 47
     },
     "Océanie": {
-      "infectés": 7,
+      "infectés": 2,
       "morts": 0,
       "guéris": 0
     }
@@ -843,14 +843,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 8,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 7887,
-      "morts": 171,
-      "guéris": 133
+      "infectés": 1733,
+      "morts": 38,
+      "guéris": 23
     },
     "Autres": {
       "infectés": 0,
@@ -858,17 +858,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 10,
+      "infectés": 2,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 7912,
-      "morts": 171,
-      "guéris": 133
+      "infectés": 1735,
+      "morts": 38,
+      "guéris": 23
     },
     "Océanie": {
-      "infectés": 7,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -881,14 +881,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 9,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 9920,
-      "morts": 214,
-      "guéris": 141
+      "infectés": 2033,
+      "morts": 43,
+      "guéris": 8
     },
     "Autres": {
       "infectés": 0,
@@ -896,17 +896,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 14,
+      "infectés": 4,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 9952,
-      "morts": 214,
-      "guéris": 141
+      "infectés": 2040,
+      "morts": 43,
+      "guéris": 8
     },
     "Océanie": {
-      "infectés": 9,
+      "infectés": 2,
       "morts": 0,
       "guéris": 0
     }
@@ -919,14 +919,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 11,
+      "infectés": 2,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 11908,
-      "morts": 260,
-      "guéris": 220
+      "infectés": 1988,
+      "morts": 46,
+      "guéris": 79
     },
     "Autres": {
       "infectés": 0,
@@ -934,17 +934,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 22,
+      "infectés": 8,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 11953,
-      "morts": 260,
-      "guéris": 220
+      "infectés": 2001,
+      "morts": 46,
+      "guéris": 79
     },
     "Océanie": {
-      "infectés": 12,
+      "infectés": 3,
       "morts": 0,
       "guéris": 0
     }
@@ -957,14 +957,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 12,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 14603,
-      "morts": 258,
-      "guéris": 284
+      "infectés": 2695,
+      "morts": -2,
+      "guéris": 64
     },
     "Autres": {
       "infectés": 0,
@@ -972,17 +972,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 23,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 14650,
-      "morts": 258,
-      "guéris": 284
+      "infectés": 2697,
+      "morts": -2,
+      "guéris": 64
     },
     "Océanie": {
-      "infectés": 12,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -995,14 +995,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 15,
+      "infectés": 3,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 17517,
-      "morts": 363,
-      "guéris": 487
+      "infectés": 2914,
+      "morts": 105,
+      "guéris": 203
     },
     "Autres": {
       "infectés": 0,
@@ -1010,17 +1010,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 25,
+      "infectés": 2,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 17569,
-      "morts": 363,
-      "guéris": 487
+      "infectés": 2919,
+      "morts": 105,
+      "guéris": 203
     },
     "Océanie": {
-      "infectés": 12,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1033,14 +1033,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 20609,
-      "morts": 427,
-      "guéris": 621
+      "infectés": 3092,
+      "morts": 64,
+      "guéris": 134
     },
     "Autres": {
       "infectés": 0,
@@ -1048,17 +1048,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 27,
+      "infectés": 2,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 20663,
-      "morts": 427,
-      "guéris": 621
+      "infectés": 3094,
+      "morts": 64,
+      "guéris": 134
     },
     "Océanie": {
-      "infectés": 12,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1071,14 +1071,14 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 16,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 24523,
-      "morts": 494,
-      "guéris": 899
+      "infectés": 3914,
+      "morts": 67,
+      "guéris": 278
     },
     "Autres": {
       "infectés": 10,
@@ -1086,17 +1086,17 @@
       "guéris": 0
     },
     "Europe": {
-      "infectés": 28,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 24590,
-      "morts": 494,
-      "guéris": 899
+      "infectés": 3927,
+      "morts": 67,
+      "guéris": 278
     },
     "Océanie": {
-      "infectés": 13,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     }
@@ -1109,32 +1109,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 17,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 28239,
-      "morts": 567,
-      "guéris": 1100
+      "infectés": 3716,
+      "morts": 73,
+      "guéris": 201
     },
     "Autres": {
-      "infectés": 20,
+      "infectés": 10,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 28,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 28318,
-      "morts": 567,
-      "guéris": 1100
+      "infectés": 3728,
+      "morts": 73,
+      "guéris": 201
     },
     "Océanie": {
-      "infectés": 14,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     }
@@ -1147,32 +1147,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 19,
+      "infectés": 2,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 31355,
-      "morts": 640,
-      "guéris": 1500
+      "infectés": 3116,
+      "morts": 73,
+      "guéris": 400
     },
     "Autres": {
-      "infectés": 41,
+      "infectés": 21,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 31,
+      "infectés": 3,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 31461,
-      "morts": 640,
-      "guéris": 1500
+      "infectés": 3143,
+      "morts": 73,
+      "guéris": 400
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     }
@@ -1185,32 +1185,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 19,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 34754,
-      "morts": 726,
-      "guéris": 2000
+      "infectés": 3399,
+      "morts": 86,
+      "guéris": 500
     },
     "Autres": {
-      "infectés": 64,
+      "infectés": 23,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 32,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 34884,
-      "morts": 726,
-      "guéris": 2000
+      "infectés": 3423,
+      "morts": 86,
+      "guéris": 500
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1223,32 +1223,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 19,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 37423,
-      "morts": 815,
-      "guéris": 2600
+      "infectés": 2669,
+      "morts": 89,
+      "guéris": 600
     },
     "Autres": {
-      "infectés": 64,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 37,
+      "infectés": 5,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 37558,
-      "morts": 815,
-      "guéris": 2600
+      "infectés": 2674,
+      "morts": 89,
+      "guéris": 600
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1261,32 +1261,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 19,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 40411,
-      "morts": 912,
-      "guéris": 3200
+      "infectés": 2988,
+      "morts": 97,
+      "guéris": 600
     },
     "Autres": {
-      "infectés": 70,
+      "infectés": 6,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 39,
+      "infectés": 2,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 40554,
-      "morts": 912,
-      "guéris": 3200
+      "infectés": 2996,
+      "morts": 97,
+      "guéris": 600
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1299,32 +1299,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 20,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 42884,
-      "morts": 1020,
-      "guéris": 3900
+      "infectés": 2473,
+      "morts": 108,
+      "guéris": 700
     },
     "Autres": {
-      "infectés": 135,
+      "infectés": 65,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 43,
+      "infectés": 4,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 43097,
-      "morts": 1020,
-      "guéris": 3900
+      "infectés": 2543,
+      "morts": 108,
+      "guéris": 700
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1337,32 +1337,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 20,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 44916,
-      "morts": 1117,
-      "guéris": 4700
+      "infectés": 2032,
+      "morts": 97,
+      "guéris": 800
     },
     "Autres": {
-      "infectés": 175,
+      "infectés": 40,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 46,
+      "infectés": 3,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 45172,
-      "morts": 1117,
-      "guéris": 4700
+      "infectés": 2075,
+      "morts": 97,
+      "guéris": 800
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1375,32 +1375,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 21,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 46741,
-      "morts": 1371,
-      "guéris": 5200
+      "infectés": 1825,
+      "morts": 254,
+      "guéris": 500
     },
     "Autres": {
-      "infectés": 175,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 46,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 46998,
-      "morts": 1371,
-      "guéris": 5200
+      "infectés": 1826,
+      "morts": 254,
+      "guéris": 500
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1413,32 +1413,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 22,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 64136,
-      "morts": 1385,
-      "guéris": 6300
+      "infectés": 17395,
+      "morts": 14,
+      "guéris": 1100
     },
     "Autres": {
-      "infectés": 218,
+      "infectés": 43,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 46,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 64437,
-      "morts": 1385,
-      "guéris": 6300
+      "infectés": 17439,
+      "morts": 14,
+      "guéris": 1100
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1451,32 +1451,32 @@
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 22,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 64800,
-      "morts": 1528,
-      "guéris": 8100
+      "infectés": 664,
+      "morts": 143,
+      "guéris": 1800
     },
     "Autres": {
-      "infectés": 218,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 46,
+      "infectés": 0,
       "morts": 1,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 65102,
-      "morts": 1529,
-      "guéris": 8100
+      "infectés": 665,
+      "morts": 144,
+      "guéris": 1800
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1484,37 +1484,37 @@
   {
     "date": "2020-02-15",
     "Afrique": {
-      "infectés": 1,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 22,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 68827,
-      "morts": 1670,
-      "guéris": 9400
+      "infectés": 4027,
+      "morts": 142,
+      "guéris": 1300
     },
     "Autres": {
-      "infectés": 355,
+      "infectés": 137,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 47,
-      "morts": 1,
+      "infectés": 1,
+      "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 69267,
-      "morts": 1671,
-      "guéris": 9400
+      "infectés": 4165,
+      "morts": 142,
+      "guéris": 1300
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1522,37 +1522,37 @@
   {
     "date": "2020-02-16",
     "Afrique": {
-      "infectés": 1,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 22,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 70890,
-      "morts": 1777,
-      "guéris": 10900
+      "infectés": 2063,
+      "morts": 107,
+      "guéris": 1500
     },
     "Autres": {
-      "infectés": 454,
+      "infectés": 99,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 47,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 71429,
-      "morts": 1778,
-      "guéris": 10900
+      "infectés": 2162,
+      "morts": 107,
+      "guéris": 1500
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1560,37 +1560,37 @@
   {
     "date": "2020-02-17",
     "Afrique": {
-      "infectés": 1,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 23,
+      "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 72792,
-      "morts": 1875,
-      "guéris": 12600
+      "infectés": 1902,
+      "morts": 98,
+      "guéris": 1700
     },
     "Autres": {
-      "infectés": 454,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 47,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 73332,
-      "morts": 1876,
-      "guéris": 12600
+      "infectés": 1903,
+      "morts": 98,
+      "guéris": 1700
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1598,37 +1598,37 @@
   {
     "date": "2020-02-18",
     "Afrique": {
-      "infectés": 1,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 23,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Asie": {
-      "infectés": 74575,
-      "morts": 2011,
-      "guéris": 14400
+      "infectés": 1783,
+      "morts": 136,
+      "guéris": 1800
     },
     "Autres": {
-      "infectés": 542,
+      "infectés": 88,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 47,
-      "morts": 1,
+      "infectés": 0,
+      "morts": 0,
       "guéris": 0
     },
     "Monde": {
-      "infectés": 75203,
-      "morts": 2012,
-      "guéris": 14400
+      "infectés": 1871,
+      "morts": 136,
+      "guéris": 1800
     },
     "Océanie": {
-      "infectés": 15,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     }
@@ -1636,34 +1636,756 @@
   {
     "date": "2020-02-19",
     "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 413,
+      "morts": 118,
+      "guéris": 1700
+    },
+    "Autres": {
+      "infectés": 79,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Monde": {
+      "infectés": 492,
+      "morts": 118,
+      "guéris": 1700
+    },
+    "Océanie": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-20",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 1059,
+      "morts": 118,
+      "guéris": 2100
+    },
+    "Autres": {
+      "infectés": 13,
+      "morts": 2,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Monde": {
+      "infectés": 1074,
+      "morts": 120,
+      "guéris": 2100
+    },
+    "Océanie": {
+      "infectés": 2,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-21",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 20,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 995,
+      "morts": 112,
+      "guéris": 700
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 6,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Monde": {
+      "infectés": 1025,
+      "morts": 112,
+      "guéris": 700
+    },
+    "Océanie": {
+      "infectés": 4,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-22",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 1,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 948,
+      "morts": 101,
+      "guéris": 4000
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 67,
+      "morts": 2,
+      "guéris": 0
+    },
+    "Monde": {
+      "infectés": 1017,
+      "morts": 103,
+      "guéris": 4000
+    },
+    "Océanie": {
+      "infectés": 1,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-23",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 409,
+      "morts": 155,
+      "guéris": 500
+    },
+    "Autres": {
+      "infectés": 57,
+      "morts": 1,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 48,
+      "morts": 1,
+      "guéris": 0
+    },
+    "Monde": {
+      "infectés": 514,
+      "morts": 157,
+      "guéris": 500
+    },
+    "Océanie": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-24",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 19,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 784,
+      "morts": 78,
+      "guéris": 1800
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 105,
+      "morts": 3,
+      "guéris": 0
+    },
+    "Monde": {
+      "infectés": 908,
+      "morts": 81,
+      "guéris": 1800
+    },
+    "Océanie": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-25",
+    "Afrique": {
       "infectés": 1,
       "morts": 0,
       "guéris": 0
     },
     "Amérique": {
-      "infectés": 23,
+      "infectés": 1,
       "morts": 0,
-      "guéris": 0
+      "guéris": 8
     },
     "Asie": {
-      "infectés": 74988,
-      "morts": 2129,
-      "guéris": 16100
+      "infectés": 770,
+      "morts": 57,
+      "guéris": 2619
     },
     "Autres": {
-      "infectés": 621,
+      "infectés": 0,
       "morts": 0,
       "guéris": 0
     },
     "Europe": {
-      "infectés": 47,
+      "infectés": 112,
+      "morts": 5,
+      "guéris": 29
+    },
+    "Monde": {
+      "infectés": 885,
+      "morts": 62,
+      "guéris": 2667
+    },
+    "Océanie": {
+      "infectés": 1,
+      "morts": 0,
+      "guéris": 11
+    }
+  },
+  {
+    "date": "2020-02-26",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 7,
+      "morts": 0,
+      "guéris": 1
+    },
+    "Asie": {
+      "infectés": 1057,
+      "morts": 39,
+      "guéris": 2432
+    },
+    "Autres": {
+      "infectés": 14,
+      "morts": 1,
+      "guéris": 10
+    },
+    "Europe": {
+      "infectés": 101,
+      "morts": 2,
+      "guéris": 1
+    },
+    "Monde": {
+      "infectés": 1179,
+      "morts": 42,
+      "guéris": 2444
+    },
+    "Océanie": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-27",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 3
+    },
+    "Asie": {
+      "infectés": 1055,
+      "morts": 49,
+      "guéris": 2888
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 312,
+      "morts": 5,
+      "guéris": 40
+    },
+    "Monde": {
+      "infectés": 1368,
+      "morts": 54,
+      "guéris": 2931
+    },
+    "Océanie": {
+      "infectés": 1,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-28",
+    "Afrique": {
+      "infectés": 1,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 8,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 1425,
+      "morts": 60,
+      "guéris": 3427
+    },
+    "Autres": {
+      "infectés": 0,
       "morts": 1,
       "guéris": 0
     },
+    "Europe": {
+      "infectés": 323,
+      "morts": 4,
+      "guéris": 7
+    },
     "Monde": {
-      "infectés": 75695,
-      "morts": 2130,
-      "guéris": 16100
+      "infectés": 1758,
+      "morts": 65,
+      "guéris": 3434
+    },
+    "Océanie": {
+      "infectés": 1,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-02-29",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 1
+    },
+    "Amérique": {
+      "infectés": 14,
+      "morts": 1,
+      "guéris": 1
+    },
+    "Asie": {
+      "infectés": 1399,
+      "morts": 42,
+      "guéris": 3072
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 1,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 325,
+      "morts": 8,
+      "guéris": 0
+    },
+    "Monde": {
+      "infectés": 1739,
+      "morts": 52,
+      "guéris": 3074
+    },
+    "Océanie": {
+      "infectés": 1,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-03-01",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 10,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 1098,
+      "morts": 59,
+      "guéris": 2909
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 677,
+      "morts": 6,
+      "guéris": 1
+    },
+    "Monde": {
+      "infectés": 1787,
+      "morts": 66,
+      "guéris": 2910
+    },
+    "Océanie": {
+      "infectés": 2,
+      "morts": 1,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-03-02",
+    "Afrique": {
+      "infectés": 3,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 37,
+      "morts": 5,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 702,
+      "morts": 12,
+      "guéris": 2808
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 597,
+      "morts": 18,
+      "guéris": 103
+    },
+    "Monde": {
+      "infectés": 1342,
+      "morts": 35,
+      "guéris": 2911
+    },
+    "Océanie": {
+      "infectés": 3,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-03-03",
+    "Afrique": {
+      "infectés": 5,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 23,
+      "morts": 1,
+      "guéris": 2
+    },
+    "Asie": {
+      "infectés": 1864,
+      "morts": 50,
+      "guéris": 2604
+    },
+    "Autres": {
+      "infectés": 1,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 635,
+      "morts": 29,
+      "guéris": 12
+    },
+    "Monde": {
+      "infectés": 2537,
+      "morts": 80,
+      "guéris": 2618
+    },
+    "Océanie": {
+      "infectés": 9,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-03-04",
+    "Afrique": {
+      "infectés": 10,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 45,
+      "morts": 4,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 1236,
+      "morts": 60,
+      "guéris": 2838
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 985,
+      "morts": 29,
+      "guéris": 117
+    },
+    "Monde": {
+      "infectés": 2291,
+      "morts": 94,
+      "guéris": 2955
+    },
+    "Océanie": {
+      "infectés": 15,
+      "morts": 1,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-03-05",
+    "Afrique": {
+      "infectés": 3,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 78,
+      "morts": 1,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 1280,
+      "morts": 47,
+      "guéris": 2492
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 1445,
+      "morts": 48,
+      "guéris": 138
+    },
+    "Monde": {
+      "infectés": 2809,
+      "morts": 96,
+      "guéris": 2640
+    },
+    "Océanie": {
+      "infectés": 3,
+      "morts": 0,
+      "guéris": 10
+    }
+  },
+  {
+    "date": "2020-03-06",
+    "Afrique": {
+      "infectés": 19,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 78,
+      "morts": 2,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 2041,
+      "morts": 54,
+      "guéris": 1909
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 30
+    },
+    "Europe": {
+      "infectés": 1684,
+      "morts": 55,
+      "guéris": 112
+    },
+    "Monde": {
+      "infectés": 3828,
+      "morts": 111,
+      "guéris": 2051
+    },
+    "Océanie": {
+      "infectés": 6,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-03-07",
+    "Afrique": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 162,
+      "morts": 3,
+      "guéris": 2
+    },
+    "Asie": {
+      "infectés": 1738,
+      "morts": 52,
+      "guéris": 2387
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 2177,
+      "morts": 48,
+      "guéris": 107
+    },
+    "Monde": {
+      "infectés": 4081,
+      "morts": 103,
+      "guéris": 2496
+    },
+    "Océanie": {
+      "infectés": 4,
+      "morts": 0,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-03-08",
+    "Afrique": {
+      "infectés": 39,
+      "morts": 1,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 151,
+      "morts": 5,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 1221,
+      "morts": 85,
+      "guéris": 2317
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 2537,
+      "morts": 146,
+      "guéris": 34
+    },
+    "Monde": {
+      "infectés": 3961,
+      "morts": 238,
+      "guéris": 2351
+    },
+    "Océanie": {
+      "infectés": 13,
+      "morts": 1,
+      "guéris": 0
+    }
+  },
+  {
+    "date": "2020-03-09",
+    "Afrique": {
+      "infectés": 9,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Amérique": {
+      "infectés": 97,
+      "morts": 1,
+      "guéris": 0
+    },
+    "Asie": {
+      "infectés": 869,
+      "morts": 72,
+      "guéris": 1682
+    },
+    "Autres": {
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
+    },
+    "Europe": {
+      "infectés": 2992,
+      "morts": 118,
+      "guéris": 108
+    },
+    "Monde": {
+      "infectés": 3982,
+      "morts": 191,
+      "guéris": 1790
     },
     "Océanie": {
       "infectés": 15,
@@ -1672,2321 +2394,1599 @@
     }
   },
   {
-    "date": "2020-02-20",
-    "Afrique": {
-      "infectés": 1,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 23,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Asie": {
-      "infectés": 76047,
-      "morts": 2247,
-      "guéris": 18200
-    },
-    "Autres": {
-      "infectés": 634,
-      "morts": 2,
-      "guéris": 0
-    },
-    "Europe": {
-      "infectés": 47,
-      "morts": 1,
-      "guéris": 0
-    },
-    "Monde": {
-      "infectés": 76769,
-      "morts": 2250,
-      "guéris": 18200
-    },
-    "Océanie": {
-      "infectés": 17,
-      "morts": 0,
-      "guéris": 0
-    }
-  },
-  {
-    "date": "2020-02-21",
-    "Afrique": {
-      "infectés": 1,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 43,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Asie": {
-      "infectés": 77042,
-      "morts": 2359,
-      "guéris": 18900
-    },
-    "Autres": {
-      "infectés": 634,
-      "morts": 2,
-      "guéris": 0
-    },
-    "Europe": {
-      "infectés": 53,
-      "morts": 1,
-      "guéris": 0
-    },
-    "Monde": {
-      "infectés": 77794,
-      "morts": 2362,
-      "guéris": 18900
-    },
-    "Océanie": {
-      "infectés": 21,
-      "morts": 0,
-      "guéris": 0
-    }
-  },
-  {
-    "date": "2020-02-22",
-    "Afrique": {
-      "infectés": 1,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 44,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Asie": {
-      "infectés": 77990,
-      "morts": 2460,
-      "guéris": 22900
-    },
-    "Autres": {
-      "infectés": 634,
-      "morts": 2,
-      "guéris": 0
-    },
-    "Europe": {
-      "infectés": 120,
-      "morts": 3,
-      "guéris": 0
-    },
-    "Monde": {
-      "infectés": 78811,
-      "morts": 2465,
-      "guéris": 22900
-    },
-    "Océanie": {
-      "infectés": 22,
-      "morts": 0,
-      "guéris": 0
-    }
-  },
-  {
-    "date": "2020-02-23",
-    "Afrique": {
-      "infectés": 1,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 44,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Asie": {
-      "infectés": 78399,
-      "morts": 2615,
-      "guéris": 23400
-    },
-    "Autres": {
-      "infectés": 691,
-      "morts": 3,
-      "guéris": 0
-    },
-    "Europe": {
-      "infectés": 168,
-      "morts": 4,
-      "guéris": 0
-    },
-    "Monde": {
-      "infectés": 79325,
-      "morts": 2622,
-      "guéris": 23400
-    },
-    "Océanie": {
-      "infectés": 22,
-      "morts": 0,
-      "guéris": 0
-    }
-  },
-  {
-    "date": "2020-02-24",
-    "Afrique": {
-      "infectés": 1,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 63,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Asie": {
-      "infectés": 79183,
-      "morts": 2693,
-      "guéris": 25200
-    },
-    "Autres": {
-      "infectés": 691,
-      "morts": 3,
-      "guéris": 0
-    },
-    "Europe": {
-      "infectés": 273,
-      "morts": 7,
-      "guéris": 0
-    },
-    "Monde": {
-      "infectés": 80233,
-      "morts": 2703,
-      "guéris": 25200
-    },
-    "Océanie": {
-      "infectés": 22,
-      "morts": 0,
-      "guéris": 0
-    }
-  },
-  {
-    "date": "2020-02-25",
-    "Afrique": {
-      "infectés": 2,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 64,
-      "morts": 0,
-      "guéris": 8
-    },
-    "Asie": {
-      "infectés": 79953,
-      "morts": 2750,
-      "guéris": 27819
-    },
-    "Autres": {
-      "infectés": 691,
-      "morts": 3,
-      "guéris": 0
-    },
-    "Europe": {
-      "infectés": 385,
-      "morts": 12,
-      "guéris": 29
-    },
-    "Monde": {
-      "infectés": 81118,
-      "morts": 2765,
-      "guéris": 27867
-    },
-    "Océanie": {
-      "infectés": 23,
-      "morts": 0,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-02-26",
-    "Afrique": {
-      "infectés": 2,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 71,
-      "morts": 0,
-      "guéris": 9
-    },
-    "Asie": {
-      "infectés": 81010,
-      "morts": 2789,
-      "guéris": 30251
-    },
-    "Autres": {
-      "infectés": 705,
-      "morts": 4,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 486,
-      "morts": 14,
-      "guéris": 30
-    },
-    "Monde": {
-      "infectés": 82297,
-      "morts": 2807,
-      "guéris": 30311
-    },
-    "Océanie": {
-      "infectés": 23,
-      "morts": 0,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-02-27",
-    "Afrique": {
-      "infectés": 2,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 71,
-      "morts": 0,
-      "guéris": 12
-    },
-    "Asie": {
-      "infectés": 82065,
-      "morts": 2838,
-      "guéris": 33139
-    },
-    "Autres": {
-      "infectés": 705,
-      "morts": 4,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 798,
-      "morts": 19,
-      "guéris": 70
-    },
-    "Monde": {
-      "infectés": 83665,
-      "morts": 2861,
-      "guéris": 33242
-    },
-    "Océanie": {
-      "infectés": 24,
-      "morts": 0,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-02-28",
-    "Afrique": {
-      "infectés": 3,
-      "morts": 0,
-      "guéris": 0
-    },
-    "Amérique": {
-      "infectés": 79,
-      "morts": 0,
-      "guéris": 12
-    },
-    "Asie": {
-      "infectés": 83490,
-      "morts": 2898,
-      "guéris": 36566
-    },
-    "Autres": {
-      "infectés": 705,
-      "morts": 5,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 1121,
-      "morts": 23,
-      "guéris": 77
-    },
-    "Monde": {
-      "infectés": 85423,
-      "morts": 2926,
-      "guéris": 36676
-    },
-    "Océanie": {
-      "infectés": 25,
-      "morts": 0,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-02-29",
-    "Afrique": {
-      "infectés": 3,
-      "morts": 0,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 93,
-      "morts": 1,
-      "guéris": 13
-    },
-    "Asie": {
-      "infectés": 84889,
-      "morts": 2940,
-      "guéris": 39638
-    },
-    "Autres": {
-      "infectés": 705,
-      "morts": 6,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 1446,
-      "morts": 31,
-      "guéris": 77
-    },
-    "Monde": {
-      "infectés": 87162,
-      "morts": 2978,
-      "guéris": 39750
-    },
-    "Océanie": {
-      "infectés": 26,
-      "morts": 0,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-03-01",
-    "Afrique": {
-      "infectés": 3,
-      "morts": 0,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 103,
-      "morts": 1,
-      "guéris": 13
-    },
-    "Asie": {
-      "infectés": 85987,
-      "morts": 2999,
-      "guéris": 42547
-    },
-    "Autres": {
-      "infectés": 705,
-      "morts": 6,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 2123,
-      "morts": 37,
-      "guéris": 78
-    },
-    "Monde": {
-      "infectés": 88949,
-      "morts": 3044,
-      "guéris": 42660
-    },
-    "Océanie": {
-      "infectés": 28,
-      "morts": 1,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-03-02",
-    "Afrique": {
-      "infectés": 6,
-      "morts": 0,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 140,
-      "morts": 6,
-      "guéris": 13
-    },
-    "Asie": {
-      "infectés": 86689,
-      "morts": 3011,
-      "guéris": 45355
-    },
-    "Autres": {
-      "infectés": 705,
-      "morts": 6,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 2720,
-      "morts": 55,
-      "guéris": 181
-    },
-    "Monde": {
-      "infectés": 90291,
-      "morts": 3079,
-      "guéris": 45571
-    },
-    "Océanie": {
-      "infectés": 31,
-      "morts": 1,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-03-03",
-    "Afrique": {
-      "infectés": 11,
-      "morts": 0,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 163,
-      "morts": 7,
-      "guéris": 15
-    },
-    "Asie": {
-      "infectés": 88553,
-      "morts": 3061,
-      "guéris": 47959
-    },
-    "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 3355,
-      "morts": 84,
-      "guéris": 193
-    },
-    "Monde": {
-      "infectés": 92828,
-      "morts": 3159,
-      "guéris": 48189
-    },
-    "Océanie": {
-      "infectés": 40,
-      "morts": 1,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-03-04",
-    "Afrique": {
-      "infectés": 21,
-      "morts": 0,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 208,
-      "morts": 11,
-      "guéris": 15
-    },
-    "Asie": {
-      "infectés": 89789,
-      "morts": 3121,
-      "guéris": 50797
-    },
-    "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 4340,
-      "morts": 113,
-      "guéris": 310
-    },
-    "Monde": {
-      "infectés": 95119,
-      "morts": 3253,
-      "guéris": 51144
-    },
-    "Océanie": {
-      "infectés": 55,
-      "morts": 2,
-      "guéris": 11
-    }
-  },
-  {
-    "date": "2020-03-05",
-    "Afrique": {
-      "infectés": 24,
-      "morts": 0,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 286,
-      "morts": 12,
-      "guéris": 15
-    },
-    "Asie": {
-      "infectés": 91069,
-      "morts": 3168,
-      "guéris": 53289
-    },
-    "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 10
-    },
-    "Europe": {
-      "infectés": 5785,
-      "morts": 161,
-      "guéris": 448
-    },
-    "Monde": {
-      "infectés": 97928,
-      "morts": 3349,
-      "guéris": 53784
-    },
-    "Océanie": {
-      "infectés": 58,
-      "morts": 2,
-      "guéris": 21
-    }
-  },
-  {
-    "date": "2020-03-06",
-    "Afrique": {
-      "infectés": 43,
-      "morts": 0,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 364,
-      "morts": 14,
-      "guéris": 15
-    },
-    "Asie": {
-      "infectés": 93110,
-      "morts": 3222,
-      "guéris": 55198
-    },
-    "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
-    },
-    "Europe": {
-      "infectés": 7469,
-      "morts": 216,
-      "guéris": 560
-    },
-    "Monde": {
-      "infectés": 101756,
-      "morts": 3460,
-      "guéris": 55835
-    },
-    "Océanie": {
-      "infectés": 64,
-      "morts": 2,
-      "guéris": 21
-    }
-  },
-  {
-    "date": "2020-03-07",
-    "Afrique": {
-      "infectés": 43,
-      "morts": 0,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 526,
-      "morts": 17,
-      "guéris": 17
-    },
-    "Asie": {
-      "infectés": 94848,
-      "morts": 3274,
-      "guéris": 57585
-    },
-    "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
-    },
-    "Europe": {
-      "infectés": 9646,
-      "morts": 264,
-      "guéris": 667
-    },
-    "Monde": {
-      "infectés": 105837,
-      "morts": 3563,
-      "guéris": 58331
-    },
-    "Océanie": {
-      "infectés": 68,
-      "morts": 2,
-      "guéris": 21
-    }
-  },
-  {
-    "date": "2020-03-08",
-    "Afrique": {
-      "infectés": 82,
-      "morts": 1,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 677,
-      "morts": 22,
-      "guéris": 17
-    },
-    "Asie": {
-      "infectés": 96069,
-      "morts": 3359,
-      "guéris": 59902
-    },
-    "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
-    },
-    "Europe": {
-      "infectés": 12183,
-      "morts": 410,
-      "guéris": 701
-    },
-    "Monde": {
-      "infectés": 109798,
-      "morts": 3801,
-      "guéris": 60682
-    },
-    "Océanie": {
-      "infectés": 81,
-      "morts": 3,
-      "guéris": 21
-    }
-  },
-  {
-    "date": "2020-03-09",
-    "Afrique": {
-      "infectés": 91,
-      "morts": 1,
-      "guéris": 1
-    },
-    "Amérique": {
-      "infectés": 774,
-      "morts": 23,
-      "guéris": 17
-    },
-    "Asie": {
-      "infectés": 96938,
-      "morts": 3431,
-      "guéris": 61584
-    },
-    "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
-    },
-    "Europe": {
-      "infectés": 15175,
-      "morts": 528,
-      "guéris": 809
-    },
-    "Monde": {
-      "infectés": 113780,
-      "morts": 3992,
-      "guéris": 62472
-    },
-    "Océanie": {
-      "infectés": 96,
-      "morts": 3,
-      "guéris": 21
-    }
-  },
-  {
     "date": "2020-03-10",
     "Afrique": {
-      "infectés": 104,
-      "morts": 2,
-      "guéris": 2
+      "infectés": 13,
+      "morts": 1,
+      "guéris": 1
     },
     "Amérique": {
-      "infectés": 1156,
-      "morts": 30,
-      "guéris": 20
+      "infectés": 382,
+      "morts": 7,
+      "guéris": 3
     },
     "Asie": {
-      "infectés": 98131,
-      "morts": 3505,
-      "guéris": 63479
+      "infectés": 1193,
+      "morts": 74,
+      "guéris": 1895
     },
     "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 18321,
-      "morts": 716,
-      "guéris": 821
+      "infectés": 3146,
+      "morts": 188,
+      "guéris": 12
     },
     "Monde": {
-      "infectés": 118530,
-      "morts": 4262,
-      "guéris": 64383
+      "infectés": 4750,
+      "morts": 270,
+      "guéris": 1911
     },
     "Océanie": {
-      "infectés": 112,
-      "morts": 3,
-      "guéris": 21
+      "infectés": 16,
+      "morts": 0,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-11",
     "Afrique": {
-      "infectés": 117,
-      "morts": 2,
-      "guéris": 2
+      "infectés": 13,
+      "morts": 0,
+      "guéris": 0
     },
     "Amérique": {
-      "infectés": 1550,
-      "morts": 39,
-      "guéris": 20
+      "infectés": 394,
+      "morts": 9,
+      "guéris": 0
     },
     "Asie": {
-      "infectés": 100046,
-      "morts": 3608,
-      "guéris": 65344
+      "infectés": 1915,
+      "morts": 103,
+      "guéris": 1865
     },
     "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 23375,
-      "morts": 961,
-      "guéris": 1305
+      "infectés": 5054,
+      "morts": 245,
+      "guéris": 484
     },
     "Monde": {
-      "infectés": 125927,
-      "morts": 4619,
-      "guéris": 66732
+      "infectés": 7397,
+      "morts": 357,
+      "guéris": 2349
     },
     "Océanie": {
-      "infectés": 133,
-      "morts": 3,
-      "guéris": 21
+      "infectés": 21,
+      "morts": 0,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-12",
     "Afrique": {
-      "infectés": 136,
-      "morts": 3,
-      "guéris": 30
+      "infectés": 19,
+      "morts": 1,
+      "guéris": 28
     },
     "Amérique": {
-      "infectés": 2001,
-      "morts": 43,
-      "guéris": 24
+      "infectés": 451,
+      "morts": 4,
+      "guéris": 4
     },
     "Asie": {
-      "infectés": 101352,
-      "morts": 3703,
-      "guéris": 66676
+      "infectés": 1306,
+      "morts": 95,
+      "guéris": 1332
     },
     "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 28754,
-      "morts": 1199,
-      "guéris": 1306
+      "infectés": 5379,
+      "morts": 238,
+      "guéris": 1
     },
     "Monde": {
-      "infectés": 133082,
-      "morts": 4957,
-      "guéris": 68097
+      "infectés": 7155,
+      "morts": 338,
+      "guéris": 1365
     },
     "Océanie": {
-      "infectés": 133,
-      "morts": 3,
-      "guéris": 21
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-13",
     "Afrique": {
-      "infectés": 168,
-      "morts": 6,
-      "guéris": 30
+      "infectés": 32,
+      "morts": 3,
+      "guéris": 0
     },
     "Amérique": {
-      "infectés": 2242,
-      "morts": 45,
-      "guéris": 24
+      "infectés": 241,
+      "morts": 2,
+      "guéris": 0
     },
     "Asie": {
-      "infectés": 102964,
-      "morts": 3804,
-      "guéris": 68146
+      "infectés": 1612,
+      "morts": 101,
+      "guéris": 1470
     },
     "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 36226,
-      "morts": 1521,
-      "guéris": 1732
+      "infectés": 7472,
+      "morts": 322,
+      "guéris": 426
     },
     "Monde": {
-      "infectés": 142442,
-      "morts": 5385,
-      "guéris": 69993
+      "infectés": 9360,
+      "morts": 428,
+      "guéris": 1896
     },
     "Océanie": {
-      "infectés": 136,
-      "morts": 3,
-      "guéris": 21
+      "infectés": 3,
+      "morts": 0,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-14",
     "Afrique": {
-      "infectés": 241,
-      "morts": 7,
-      "guéris": 35
+      "infectés": 73,
+      "morts": 1,
+      "guéris": 5
     },
     "Amérique": {
-      "infectés": 3262,
-      "morts": 57,
-      "guéris": 26
+      "infectés": 1020,
+      "morts": 12,
+      "guéris": 2
     },
     "Asie": {
-      "infectés": 105061,
-      "morts": 3931,
-      "guéris": 69644
+      "infectés": 2097,
+      "morts": 127,
+      "guéris": 1498
     },
     "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 46718,
-      "morts": 1810,
-      "guéris": 2597
+      "infectés": 10492,
+      "morts": 289,
+      "guéris": 865
     },
     "Monde": {
-      "infectés": 156247,
-      "morts": 5814,
-      "guéris": 72365
+      "infectés": 13805,
+      "morts": 429,
+      "guéris": 2372
     },
     "Océanie": {
-      "infectés": 259,
-      "morts": 3,
-      "guéris": 23
+      "infectés": 123,
+      "morts": 0,
+      "guéris": 2
     }
   },
   {
     "date": "2020-03-15",
     "Afrique": {
-      "infectés": 303,
-      "morts": 8,
-      "guéris": 35
+      "infectés": 62,
+      "morts": 1,
+      "guéris": 0
     },
     "Amérique": {
-      "infectés": 4066,
-      "morts": 71,
-      "guéris": 26
+      "infectés": 804,
+      "morts": 14,
+      "guéris": 0
     },
     "Asie": {
-      "infectés": 106808,
-      "morts": 4061,
-      "guéris": 72976
+      "infectés": 1747,
+      "morts": 130,
+      "guéris": 3332
     },
     "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 55507,
-      "morts": 2344,
-      "guéris": 2999
+      "infectés": 8789,
+      "morts": 534,
+      "guéris": 402
     },
     "Monde": {
-      "infectés": 167698,
-      "morts": 6493,
-      "guéris": 76099
+      "infectés": 11451,
+      "morts": 679,
+      "guéris": 3734
     },
     "Océanie": {
-      "infectés": 308,
-      "morts": 3,
-      "guéris": 23
+      "infectés": 49,
+      "morts": 0,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-16",
     "Afrique": {
-      "infectés": 389,
-      "morts": 8,
-      "guéris": 42
+      "infectés": 86,
+      "morts": 0,
+      "guéris": 7
     },
     "Amérique": {
-      "infectés": 5454,
-      "morts": 83,
-      "guéris": 28
+      "infectés": 1388,
+      "morts": 12,
+      "guéris": 2
     },
     "Asie": {
-      "infectés": 108579,
-      "morts": 4210,
-      "guéris": 74666
+      "infectés": 1771,
+      "morts": 149,
+      "guéris": 1690
     },
     "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 65721,
-      "morts": 2793,
-      "guéris": 3452
+      "infectés": 10214,
+      "morts": 449,
+      "guéris": 453
     },
     "Monde": {
-      "infectés": 181240,
-      "morts": 7103,
-      "guéris": 78251
+      "infectés": 13542,
+      "morts": 610,
+      "guéris": 2152
     },
     "Océanie": {
-      "infectés": 391,
-      "morts": 3,
-      "guéris": 23
+      "infectés": 83,
+      "morts": 0,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-17",
     "Afrique": {
-      "infectés": 491,
-      "morts": 11,
-      "guéris": 48
+      "infectés": 102,
+      "morts": 3,
+      "guéris": 6
     },
     "Amérique": {
-      "infectés": 8041,
-      "morts": 123,
-      "guéris": 40
+      "infectés": 2587,
+      "morts": 40,
+      "guéris": 12
     },
     "Asie": {
-      "infectés": 110728,
-      "morts": 4371,
-      "guéris": 76278
+      "infectés": 2149,
+      "morts": 161,
+      "guéris": 1612
     },
     "Autres": {
-      "infectés": 706,
-      "morts": 6,
-      "guéris": 40
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 76690,
-      "morts": 3426,
-      "guéris": 4823
+      "infectés": 10969,
+      "morts": 633,
+      "guéris": 1371
     },
     "Monde": {
-      "infectés": 197126,
-      "morts": 7942,
-      "guéris": 81252
+      "infectés": 15886,
+      "morts": 839,
+      "guéris": 3001
     },
     "Océanie": {
-      "infectés": 470,
-      "morts": 5,
-      "guéris": 23
+      "infectés": 79,
+      "morts": 2,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-18",
     "Afrique": {
-      "infectés": 606,
-      "morts": 16,
-      "guéris": 49
+      "infectés": 115,
+      "morts": 5,
+      "guéris": 1
     },
     "Amérique": {
-      "infectés": 9947,
-      "morts": 140,
-      "guéris": 129
+      "infectés": 1906,
+      "morts": 17,
+      "guéris": 89
     },
     "Asie": {
-      "infectés": 112748,
-      "morts": 4554,
-      "guéris": 77408
+      "infectés": 2020,
+      "morts": 183,
+      "guéris": 1130
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 7,
-      "guéris": 325
+      "infectés": 6,
+      "morts": 1,
+      "guéris": 285
     },
     "Europe": {
-      "infectés": 91811,
-      "morts": 4143,
-      "guéris": 6416
+      "infectés": 15121,
+      "morts": 717,
+      "guéris": 1593
     },
     "Monde": {
-      "infectés": 216420,
-      "morts": 8866,
-      "guéris": 84350
+      "infectés": 19294,
+      "morts": 924,
+      "guéris": 3098
     },
     "Océanie": {
-      "infectés": 596,
-      "morts": 6,
-      "guéris": 23
+      "infectés": 126,
+      "morts": 1,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-19",
     "Afrique": {
-      "infectés": 793,
-      "morts": 19,
-      "guéris": 61
+      "infectés": 187,
+      "morts": 3,
+      "guéris": 12
     },
     "Amérique": {
-      "infectés": 16048,
-      "morts": 208,
-      "guéris": 131
+      "infectés": 6101,
+      "morts": 68,
+      "guéris": 2
     },
     "Asie": {
-      "infectés": 115259,
-      "morts": 4731,
-      "guéris": 78562
+      "infectés": 2511,
+      "morts": 177,
+      "guéris": 1154
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 7,
-      "guéris": 325
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 110247,
-      "morts": 5016,
-      "guéris": 7248
+      "infectés": 18436,
+      "morts": 873,
+      "guéris": 832
     },
     "Monde": {
-      "infectés": 243778,
-      "morts": 9987,
-      "guéris": 86353
+      "infectés": 27358,
+      "morts": 1121,
+      "guéris": 2003
     },
     "Océanie": {
-      "infectés": 719,
-      "morts": 6,
-      "guéris": 26
+      "infectés": 123,
+      "morts": 0,
+      "guéris": 3
     }
   },
   {
     "date": "2020-03-20",
     "Afrique": {
-      "infectés": 1001,
-      "morts": 25,
-      "guéris": 69
+      "infectés": 208,
+      "morts": 6,
+      "guéris": 8
     },
     "Amérique": {
-      "infectés": 22419,
-      "morts": 273,
-      "guéris": 176
+      "infectés": 6371,
+      "morts": 65,
+      "guéris": 45
     },
     "Asie": {
-      "infectés": 117544,
-      "morts": 4909,
-      "guéris": 80416
+      "infectés": 2285,
+      "morts": 178,
+      "guéris": 1854
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 7,
-      "guéris": 325
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 130514,
-      "morts": 6077,
-      "guéris": 8099
+      "infectés": 20267,
+      "morts": 1061,
+      "guéris": 851
     },
     "Monde": {
-      "infectés": 273030,
-      "morts": 11298,
-      "guéris": 89111
+      "infectés": 29252,
+      "morts": 1311,
+      "guéris": 2758
     },
     "Océanie": {
-      "infectés": 840,
-      "morts": 7,
-      "guéris": 26
+      "infectés": 121,
+      "morts": 1,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-21",
     "Afrique": {
-      "infectés": 1220,
-      "morts": 35,
-      "guéris": 81
+      "infectés": 219,
+      "morts": 10,
+      "guéris": 12
     },
     "Amérique": {
-      "infectés": 29738,
-      "morts": 360,
-      "guéris": 212
+      "infectés": 7319,
+      "morts": 87,
+      "guéris": 36
     },
     "Asie": {
-      "infectés": 120172,
-      "morts": 5065,
-      "guéris": 82064
+      "infectés": 2628,
+      "morts": 156,
+      "guéris": 1648
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 7,
-      "guéris": 325
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 151375,
-      "morts": 7485,
-      "guéris": 10859
+      "infectés": 20861,
+      "morts": 1408,
+      "guéris": 2760
     },
     "Monde": {
-      "infectés": 304350,
-      "morts": 12959,
-      "guéris": 93567
+      "infectés": 31320,
+      "morts": 1661,
+      "guéris": 4456
     },
     "Océanie": {
-      "infectés": 1133,
-      "morts": 7,
-      "guéris": 26
+      "infectés": 293,
+      "morts": 0,
+      "guéris": 0
     }
   },
   {
     "date": "2020-03-22",
     "Afrique": {
-      "infectés": 1483,
-      "morts": 47,
-      "guéris": 98
+      "infectés": 263,
+      "morts": 12,
+      "guéris": 17
     },
     "Amérique": {
-      "infectés": 39967,
-      "morts": 488,
-      "guéris": 223
+      "infectés": 10229,
+      "morts": 128,
+      "guéris": 11
     },
     "Asie": {
-      "infectés": 123324,
-      "morts": 5260,
-      "guéris": 84363
+      "infectés": 3152,
+      "morts": 195,
+      "guéris": 2299
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 8,
-      "guéris": 325
+      "infectés": 0,
+      "morts": 1,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 169912,
-      "morts": 8812,
-      "guéris": 12838
+      "infectés": 18537,
+      "morts": 1327,
+      "guéris": 1979
     },
     "Monde": {
-      "infectés": 336792,
-      "morts": 14622,
-      "guéris": 97935
+      "infectés": 32442,
+      "morts": 1663,
+      "guéris": 4368
     },
     "Océanie": {
-      "infectés": 1394,
-      "morts": 7,
-      "guéris": 88
+      "infectés": 261,
+      "morts": 0,
+      "guéris": 62
     }
   },
   {
     "date": "2020-03-23",
     "Afrique": {
-      "infectés": 1873,
-      "morts": 56,
-      "guéris": 122
+      "infectés": 390,
+      "morts": 9,
+      "guéris": 24
     },
     "Amérique": {
-      "infectés": 51465,
-      "morts": 643,
-      "guéris": 270
+      "infectés": 11498,
+      "morts": 155,
+      "guéris": 47
     },
     "Asie": {
-      "infectés": 126694,
-      "morts": 5433,
-      "guéris": 85623
+      "infectés": 3370,
+      "morts": 173,
+      "guéris": 1260
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 8,
-      "guéris": 567
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 242
     },
     "Europe": {
-      "infectés": 193974,
-      "morts": 10244,
-      "guéris": 14904
+      "infectés": 24062,
+      "morts": 1432,
+      "guéris": 2066
     },
     "Monde": {
-      "infectés": 376520,
-      "morts": 16391,
-      "guéris": 101605
+      "infectés": 39728,
+      "morts": 1769,
+      "guéris": 3670
     },
     "Océanie": {
-      "infectés": 1802,
-      "morts": 7,
-      "guéris": 119
+      "infectés": 408,
+      "morts": 0,
+      "guéris": 31
     }
   },
   {
     "date": "2020-03-24",
     "Afrique": {
-      "infectés": 2305,
-      "morts": 62,
-      "guéris": 139
+      "infectés": 432,
+      "morts": 6,
+      "guéris": 17
     },
     "Amérique": {
-      "infectés": 63349,
-      "morts": 847,
-      "guéris": 307
+      "infectés": 11884,
+      "morts": 204,
+      "guéris": 37
     },
     "Asie": {
-      "infectés": 130387,
-      "morts": 5602,
-      "guéris": 87126
+      "infectés": 3693,
+      "morts": 169,
+      "guéris": 1503
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 10,
-      "guéris": 587
+      "infectés": 0,
+      "morts": 2,
+      "guéris": 20
     },
     "Europe": {
-      "infectés": 219554,
-      "morts": 12129,
-      "guéris": 19980
+      "infectés": 25580,
+      "morts": 1885,
+      "guéris": 5076
     },
     "Monde": {
-      "infectés": 418527,
-      "morts": 18658,
-      "guéris": 108270
+      "infectés": 42007,
+      "morts": 2267,
+      "guéris": 6665
     },
     "Océanie": {
-      "infectés": 2220,
-      "morts": 8,
-      "guéris": 131
+      "infectés": 418,
+      "morts": 1,
+      "guéris": 12
     }
   },
   {
     "date": "2020-03-25",
     "Afrique": {
-      "infectés": 2829,
-      "morts": 73,
-      "guéris": 174
+      "infectés": 524,
+      "morts": 11,
+      "guéris": 35
     },
     "Amérique": {
-      "infectés": 76814,
-      "morts": 1102,
-      "guéris": 674
+      "infectés": 13465,
+      "morts": 255,
+      "guéris": 367
     },
     "Asie": {
-      "infectés": 135412,
-      "morts": 5796,
-      "guéris": 88740
+      "infectés": 5025,
+      "morts": 194,
+      "guéris": 1614
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 10,
-      "guéris": 587
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 249286,
-      "morts": 14217,
-      "guéris": 23753
+      "infectés": 29732,
+      "morts": 2088,
+      "guéris": 3773
     },
     "Monde": {
-      "infectés": 467648,
-      "morts": 21206,
-      "guéris": 114069
+      "infectés": 49121,
+      "morts": 2548,
+      "guéris": 5799
     },
     "Océanie": {
-      "infectés": 2595,
-      "morts": 8,
-      "guéris": 141
+      "infectés": 375,
+      "morts": 0,
+      "guéris": 10
     }
   },
   {
     "date": "2020-03-26",
     "Afrique": {
-      "infectés": 3376,
-      "morts": 90,
-      "guéris": 184
+      "infectés": 547,
+      "morts": 17,
+      "guéris": 10
     },
     "Amérique": {
-      "infectés": 96122,
-      "morts": 1351,
-      "guéris": 962
+      "infectés": 19308,
+      "morts": 249,
+      "guéris": 288
     },
     "Asie": {
-      "infectés": 140932,
-      "morts": 6034,
-      "guéris": 90598
+      "infectés": 5520,
+      "morts": 238,
+      "guéris": 1858
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 10,
-      "guéris": 597
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 10
     },
     "Europe": {
-      "infectés": 282612,
-      "morts": 16205,
-      "guéris": 29945
+      "infectés": 33326,
+      "morts": 1988,
+      "guéris": 6192
     },
     "Monde": {
-      "infectés": 526873,
-      "morts": 23703,
-      "guéris": 122485
+      "infectés": 59225,
+      "morts": 2497,
+      "guéris": 8416
     },
     "Océanie": {
-      "infectés": 3119,
-      "morts": 13,
-      "guéris": 199
+      "infectés": 524,
+      "morts": 5,
+      "guéris": 58
     }
   },
   {
     "date": "2020-03-27",
     "Afrique": {
-      "infectés": 3943,
-      "morts": 114,
-      "guéris": 208
+      "infectés": 567,
+      "morts": 24,
+      "guéris": 24
     },
     "Amérique": {
-      "infectés": 117767,
-      "morts": 1852,
-      "guéris": 1333
+      "infectés": 21645,
+      "morts": 501,
+      "guéris": 371
     },
     "Asie": {
-      "infectés": 147947,
-      "morts": 6247,
-      "guéris": 92443
+      "infectés": 7015,
+      "morts": 213,
+      "guéris": 1845
     },
     "Autres": {
-      "infectés": 712,
-      "morts": 10,
-      "guéris": 597
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 318798,
-      "morts": 18782,
-      "guéris": 35215
+      "infectés": 36186,
+      "morts": 2577,
+      "guéris": 5270
     },
     "Monde": {
-      "infectés": 592705,
-      "morts": 27018,
-      "guéris": 130027
+      "infectés": 65832,
+      "morts": 3315,
+      "guéris": 7542
     },
     "Océanie": {
-      "infectés": 3538,
-      "morts": 13,
-      "guéris": 231
+      "infectés": 419,
+      "morts": 0,
+      "guéris": 32
     }
   },
   {
     "date": "2020-03-28",
     "Afrique": {
-      "infectés": 4248,
-      "morts": 134,
-      "guéris": 253
+      "infectés": 305,
+      "morts": 20,
+      "guéris": 45
     },
     "Amérique": {
-      "infectés": 140305,
-      "morts": 2368,
-      "guéris": 1788
+      "infectés": 22538,
+      "morts": 516,
+      "guéris": 455
     },
     "Asie": {
-      "infectés": 155303,
-      "morts": 6460,
-      "guéris": 93931
+      "infectés": 7356,
+      "morts": 213,
+      "guéris": 1488
     },
     "Autres": {
-      "infectés": 714,
-      "morts": 10,
-      "guéris": 597
+      "infectés": 2,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 355655,
-      "morts": 21545,
-      "guéris": 39755
+      "infectés": 36857,
+      "morts": 2763,
+      "guéris": 4540
     },
     "Monde": {
-      "infectés": 660343,
-      "morts": 30531,
-      "guéris": 136618
+      "infectés": 67638,
+      "morts": 3513,
+      "guéris": 6591
     },
     "Océanie": {
-      "infectés": 4118,
-      "morts": 14,
-      "guéris": 294
+      "infectés": 580,
+      "morts": 1,
+      "guéris": 63
     }
   },
   {
     "date": "2020-03-29",
     "Afrique": {
-      "infectés": 4731,
-      "morts": 145,
-      "guéris": 277
+      "infectés": 483,
+      "morts": 11,
+      "guéris": 24
     },
     "Amérique": {
-      "infectés": 158129,
-      "morts": 2807,
-      "guéris": 3346
+      "infectés": 17824,
+      "morts": 439,
+      "guéris": 1558
     },
     "Asie": {
-      "infectés": 162608,
-      "morts": 6665,
-      "guéris": 95606
+      "infectés": 7305,
+      "morts": 205,
+      "guéris": 1675
     },
     "Autres": {
-      "infectés": 714,
-      "morts": 10,
-      "guéris": 597
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 385866,
-      "morts": 24242,
-      "guéris": 47994
+      "infectés": 30211,
+      "morts": 2697,
+      "guéris": 8239
     },
     "Monde": {
-      "infectés": 716569,
-      "morts": 33886,
-      "guéris": 148120
+      "infectés": 56226,
+      "morts": 3355,
+      "guéris": 11502
     },
     "Océanie": {
-      "infectés": 4521,
-      "morts": 17,
-      "guéris": 300
+      "infectés": 403,
+      "morts": 3,
+      "guéris": 6
     }
   },
   {
     "date": "2020-03-30",
     "Afrique": {
-      "infectés": 5202,
-      "morts": 168,
-      "guéris": 316
+      "infectés": 471,
+      "morts": 23,
+      "guéris": 39
     },
     "Amérique": {
-      "infectés": 183507,
-      "morts": 3419,
-      "guéris": 6719
+      "infectés": 25378,
+      "morts": 612,
+      "guéris": 3373
     },
     "Asie": {
-      "infectés": 169591,
-      "morts": 6875,
-      "guéris": 98233
+      "infectés": 6983,
+      "morts": 210,
+      "guéris": 2627
     },
     "Autres": {
-      "infectés": 714,
-      "morts": 10,
-      "guéris": 603
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 6
     },
     "Europe": {
-      "infectés": 413874,
-      "morts": 26708,
-      "guéris": 57460
+      "infectés": 28008,
+      "morts": 2466,
+      "guéris": 9466
     },
     "Monde": {
-      "infectés": 777865,
-      "morts": 37198,
-      "guéris": 163651
+      "infectés": 61296,
+      "morts": 3312,
+      "guéris": 15531
     },
     "Océanie": {
-      "infectés": 4977,
-      "morts": 18,
-      "guéris": 320
+      "infectés": 456,
+      "morts": 1,
+      "guéris": 20
     }
   },
   {
     "date": "2020-03-31",
     "Afrique": {
-      "infectés": 5829,
-      "morts": 201,
-      "guéris": 371
+      "infectés": 627,
+      "morts": 33,
+      "guéris": 55
     },
     "Amérique": {
-      "infectés": 213495,
-      "morts": 4179,
-      "guéris": 9394
+      "infectés": 29988,
+      "morts": 760,
+      "guéris": 2675
     },
     "Asie": {
-      "infectés": 178123,
-      "morts": 7119,
-      "guéris": 99985
+      "infectés": 8532,
+      "morts": 244,
+      "guéris": 1752
     },
     "Autres": {
-      "infectés": 714,
-      "morts": 10,
-      "guéris": 603
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 452045,
-      "morts": 30303,
-      "guéris": 66336
+      "infectés": 38171,
+      "morts": 3595,
+      "guéris": 8876
     },
     "Monde": {
-      "infectés": 855439,
-      "morts": 41831,
-      "guéris": 177121
+      "infectés": 77574,
+      "morts": 4633,
+      "guéris": 13470
     },
     "Océanie": {
-      "infectés": 5233,
-      "morts": 19,
-      "guéris": 432
+      "infectés": 256,
+      "morts": 1,
+      "guéris": 112
     }
   },
   {
     "date": "2020-04-01",
     "Afrique": {
-      "infectés": 6380,
-      "morts": 235,
-      "guéris": 470
+      "infectés": 551,
+      "morts": 34,
+      "guéris": 99
     },
     "Amérique": {
-      "infectés": 244636,
-      "morts": 5470,
-      "guéris": 11083
+      "infectés": 31141,
+      "morts": 1291,
+      "guéris": 1689
     },
     "Asie": {
-      "infectés": 186866,
-      "morts": 7417,
-      "guéris": 101845
+      "infectés": 8743,
+      "morts": 298,
+      "guéris": 1860
     },
     "Autres": {
-      "infectés": 714,
-      "morts": 10,
-      "guéris": 603
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 488736,
-      "morts": 34059,
-      "guéris": 76935
+      "infectés": 36691,
+      "morts": 3756,
+      "guéris": 10599
     },
     "Monde": {
-      "infectés": 932930,
-      "morts": 47212,
-      "guéris": 191441
+      "infectés": 77491,
+      "morts": 5381,
+      "guéris": 14320
     },
     "Océanie": {
-      "infectés": 5598,
-      "morts": 21,
-      "guéris": 505
+      "infectés": 365,
+      "morts": 2,
+      "guéris": 73
     }
   },
   {
     "date": "2020-04-02",
     "Afrique": {
-      "infectés": 7069,
-      "morts": 286,
-      "guéris": 542
+      "infectés": 689,
+      "morts": 51,
+      "guéris": 72
     },
     "Amérique": {
-      "infectés": 279247,
-      "morts": 6831,
-      "guéris": 12329
+      "infectés": 34611,
+      "morts": 1361,
+      "guéris": 1246
     },
     "Asie": {
-      "infectés": 195998,
-      "morts": 7715,
-      "guéris": 104167
+      "infectés": 9132,
+      "morts": 298,
+      "guéris": 2322
     },
     "Autres": {
-      "infectés": 721,
-      "morts": 13,
-      "guéris": 619
+      "infectés": 7,
+      "morts": 3,
+      "guéris": 16
     },
     "Europe": {
-      "infectés": 517638,
-      "morts": 37820,
-      "guéris": 89440
+      "infectés": 28902,
+      "morts": 3761,
+      "guéris": 12505
     },
     "Monde": {
-      "infectés": 1006618,
-      "morts": 52690,
-      "guéris": 207709
+      "infectés": 73688,
+      "morts": 5478,
+      "guéris": 16268
     },
     "Océanie": {
-      "infectés": 5945,
-      "morts": 25,
-      "guéris": 612
+      "infectés": 347,
+      "morts": 4,
+      "guéris": 107
     }
   },
   {
     "date": "2020-04-03",
     "Afrique": {
-      "infectés": 7942,
-      "morts": 330,
-      "guéris": 667
+      "infectés": 873,
+      "morts": 44,
+      "guéris": 125
     },
     "Amérique": {
-      "infectés": 313263,
-      "morts": 8136,
-      "guéris": 13426
+      "infectés": 34016,
+      "morts": 1305,
+      "guéris": 1097
     },
     "Asie": {
-      "infectés": 204617,
-      "morts": 7995,
-      "guéris": 106251
+      "infectés": 8619,
+      "morts": 280,
+      "guéris": 2084
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 5,
+      "morts": 2,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 562070,
-      "morts": 42325,
-      "guéris": 96214
+      "infectés": 44432,
+      "morts": 4505,
+      "guéris": 6774
     },
     "Monde": {
-      "infectés": 1094848,
-      "morts": 58830,
-      "guéris": 217929
+      "infectés": 88230,
+      "morts": 6140,
+      "guéris": 10220
     },
     "Océanie": {
-      "infectés": 6230,
-      "morts": 29,
-      "guéris": 752
+      "infectés": 285,
+      "morts": 4,
+      "guéris": 140
     }
   },
   {
     "date": "2020-04-04",
     "Afrique": {
-      "infectés": 8620,
-      "morts": 384,
-      "guéris": 783
+      "infectés": 678,
+      "morts": 54,
+      "guéris": 116
     },
     "Amérique": {
-      "infectés": 351237,
-      "morts": 9623,
-      "guéris": 20102
+      "infectés": 37974,
+      "morts": 1487,
+      "guéris": 6676
     },
     "Asie": {
-      "infectés": 213432,
-      "morts": 8299,
-      "guéris": 109420
+      "infectés": 8815,
+      "morts": 304,
+      "guéris": 3169
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 595214,
-      "morts": 46226,
-      "guéris": 109712
+      "infectés": 33144,
+      "morts": 3901,
+      "guéris": 13498
     },
     "Monde": {
-      "infectés": 1175766,
-      "morts": 64578,
-      "guéris": 241464
+      "infectés": 80918,
+      "morts": 5748,
+      "guéris": 23535
     },
     "Océanie": {
-      "infectés": 6537,
-      "morts": 31,
-      "guéris": 828
+      "infectés": 307,
+      "morts": 2,
+      "guéris": 76
     }
   },
   {
     "date": "2020-04-05",
     "Afrique": {
-      "infectés": 9341,
-      "morts": 444,
-      "guéris": 872
+      "infectés": 721,
+      "morts": 60,
+      "guéris": 89
     },
     "Amérique": {
-      "infectés": 383440,
-      "morts": 10990,
-      "guéris": 23442
+      "infectés": 32203,
+      "morts": 1367,
+      "guéris": 3340
     },
     "Asie": {
-      "infectés": 222934,
-      "morts": 8603,
-      "guéris": 110670
+      "infectés": 9502,
+      "morts": 304,
+      "guéris": 1250
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 624916,
-      "morts": 49266,
-      "guéris": 118835
+      "infectés": 29702,
+      "morts": 3040,
+      "guéris": 9123
     },
     "Monde": {
-      "infectés": 1248120,
-      "morts": 69354,
-      "guéris": 255351
+      "infectés": 72354,
+      "morts": 4776,
+      "guéris": 13887
     },
     "Océanie": {
-      "infectés": 6763,
-      "morts": 36,
-      "guéris": 913
+      "infectés": 226,
+      "morts": 5,
+      "guéris": 85
     }
   },
   {
     "date": "2020-04-06",
     "Afrique": {
-      "infectés": 9762,
-      "morts": 481,
-      "guéris": 911
+      "infectés": 421,
+      "morts": 37,
+      "guéris": 39
     },
     "Amérique": {
-      "infectés": 413840,
-      "morts": 12248,
-      "guéris": 25635
+      "infectés": 30400,
+      "morts": 1258,
+      "guéris": 2193
     },
     "Asie": {
-      "infectés": 233566,
-      "morts": 8921,
-      "guéris": 116644
+      "infectés": 10632,
+      "morts": 318,
+      "guéris": 5974
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 649060,
-      "morts": 52413,
-      "guéris": 124748
+      "infectés": 24144,
+      "morts": 3147,
+      "guéris": 5913
     },
     "Monde": {
-      "infectés": 1313895,
-      "morts": 74119,
-      "guéris": 269813
+      "infectés": 65775,
+      "morts": 4765,
+      "guéris": 14462
     },
     "Océanie": {
-      "infectés": 6941,
-      "morts": 41,
-      "guéris": 1256
+      "infectés": 178,
+      "morts": 5,
+      "guéris": 343
     }
   },
   {
     "date": "2020-04-07",
     "Afrique": {
-      "infectés": 10555,
-      "morts": 531,
-      "guéris": 1066
+      "infectés": 793,
+      "morts": 50,
+      "guéris": 155
     },
     "Amérique": {
-      "infectés": 441969,
-      "morts": 14135,
-      "guéris": 27914
+      "infectés": 28129,
+      "morts": 1887,
+      "guéris": 2279
     },
     "Asie": {
-      "infectés": 242977,
-      "morts": 9219,
-      "guéris": 120807
+      "infectés": 9411,
+      "morts": 298,
+      "guéris": 4163
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 679665,
-      "morts": 57315,
-      "guéris": 140349
+      "infectés": 30605,
+      "morts": 4902,
+      "guéris": 15601
     },
     "Monde": {
-      "infectés": 1382988,
-      "morts": 81261,
-      "guéris": 292076
+      "infectés": 69093,
+      "morts": 7142,
+      "guéris": 22263
     },
     "Océanie": {
-      "infectés": 7096,
-      "morts": 46,
-      "guéris": 1321
+      "infectés": 155,
+      "morts": 5,
+      "guéris": 65
     }
   },
   {
     "date": "2020-04-08",
     "Afrique": {
-      "infectés": 11395,
-      "morts": 576,
-      "guéris": 1374
+      "infectés": 840,
+      "morts": 45,
+      "guéris": 308
     },
     "Amérique": {
-      "infectés": 488546,
-      "morts": 16867,
-      "guéris": 31942
+      "infectés": 46577,
+      "morts": 2732,
+      "guéris": 4028
     },
     "Asie": {
-      "infectés": 252560,
-      "morts": 9518,
-      "guéris": 124796
+      "infectés": 9583,
+      "morts": 299,
+      "guéris": 3989
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 715551,
-      "morts": 61339,
-      "guéris": 151123
+      "infectés": 35886,
+      "morts": 4024,
+      "guéris": 10774
     },
     "Monde": {
-      "infectés": 1476039,
-      "morts": 88366,
-      "guéris": 311216
+      "infectés": 93051,
+      "morts": 7105,
+      "guéris": 19140
     },
     "Océanie": {
-      "infectés": 7261,
-      "morts": 51,
-      "guéris": 1362
+      "infectés": 165,
+      "morts": 5,
+      "guéris": 41
     }
   },
   {
     "date": "2020-04-09",
     "Afrique": {
-      "infectés": 12303,
-      "morts": 630,
-      "guéris": 1624
+      "infectés": 908,
+      "morts": 54,
+      "guéris": 250
     },
     "Amérique": {
-      "infectés": 526020,
-      "morts": 18800,
-      "guéris": 35006
+      "infectés": 37474,
+      "morts": 1933,
+      "guéris": 3064
     },
     "Asie": {
-      "infectés": 262838,
-      "morts": 9882,
-      "guéris": 128951
+      "infectés": 10278,
+      "morts": 364,
+      "guéris": 4155
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 746639,
-      "morts": 65533,
-      "guéris": 177665
+      "infectés": 31088,
+      "morts": 4194,
+      "guéris": 26542
     },
     "Monde": {
-      "infectés": 1555914,
-      "morts": 94912,
-      "guéris": 345654
+      "infectés": 79875,
+      "morts": 6546,
+      "guéris": 34438
     },
     "Océanie": {
-      "infectés": 7388,
-      "morts": 52,
-      "guéris": 1789
+      "infectés": 127,
+      "morts": 1,
+      "guéris": 427
     }
   },
   {
     "date": "2020-04-10",
     "Afrique": {
-      "infectés": 12931,
-      "morts": 672,
-      "guéris": 2128
+      "infectés": 628,
+      "morts": 42,
+      "guéris": 504
     },
     "Amérique": {
-      "infectés": 568455,
-      "morts": 21127,
-      "guéris": 38898
+      "infectés": 42435,
+      "morts": 2327,
+      "guéris": 3892
     },
     "Asie": {
-      "infectés": 274153,
-      "morts": 10212,
-      "guéris": 133988
+      "infectés": 11315,
+      "morts": 330,
+      "guéris": 5037
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 784234,
-      "morts": 69990,
-      "guéris": 188514
+      "infectés": 37595,
+      "morts": 4457,
+      "guéris": 10849
     },
     "Monde": {
-      "infectés": 1647995,
-      "morts": 102072,
-      "guéris": 366313
+      "infectés": 92081,
+      "morts": 7160,
+      "guéris": 20659
     },
     "Océanie": {
-      "infectés": 7496,
-      "morts": 56,
-      "guéris": 2166
+      "infectés": 108,
+      "morts": 4,
+      "guéris": 377
     }
   },
   {
     "date": "2020-04-11",
     "Afrique": {
-      "infectés": 13585,
-      "morts": 742,
-      "guéris": 2348
+      "infectés": 654,
+      "morts": 70,
+      "guéris": 220
     },
     "Amérique": {
-      "infectés": 604903,
-      "morts": 23379,
-      "guéris": 43366
+      "infectés": 36448,
+      "morts": 2252,
+      "guéris": 4468
     },
     "Asie": {
-      "infectés": 286025,
-      "morts": 10581,
-      "guéris": 142472
+      "infectés": 11872,
+      "morts": 369,
+      "guéris": 8484
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 816228,
-      "morts": 73448,
-      "guéris": 201026
+      "infectés": 31994,
+      "morts": 3458,
+      "guéris": 12512
     },
     "Monde": {
-      "infectés": 1729124,
-      "morts": 108226,
-      "guéris": 392059
+      "infectés": 81129,
+      "morts": 6154,
+      "guéris": 25746
     },
     "Océanie": {
-      "infectés": 7657,
-      "morts": 61,
-      "guéris": 2228
+      "infectés": 161,
+      "morts": 5,
+      "guéris": 62
     }
   },
   {
     "date": "2020-04-12",
     "Afrique": {
-      "infectés": 15068,
-      "morts": 791,
-      "guéris": 2822
+      "infectés": 1483,
+      "morts": 49,
+      "guéris": 474
     },
     "Amérique": {
-      "infectés": 643206,
-      "morts": 25438,
-      "guéris": 47902
+      "infectés": 38303,
+      "morts": 2059,
+      "guéris": 4536
     },
     "Asie": {
-      "infectés": 297696,
-      "morts": 10979,
-      "guéris": 145919
+      "infectés": 11671,
+      "morts": 398,
+      "guéris": 3447
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 844315,
-      "morts": 76540,
-      "guéris": 211636
+      "infectés": 28087,
+      "morts": 3092,
+      "guéris": 10610
     },
     "Monde": {
-      "infectés": 1808748,
-      "morts": 113827,
-      "guéris": 411175
+      "infectés": 79624,
+      "morts": 5601,
+      "guéris": 19116
     },
     "Océanie": {
-      "infectés": 7737,
-      "morts": 64,
-      "guéris": 2277
+      "infectés": 80,
+      "morts": 3,
+      "guéris": 49
     }
   },
   {
     "date": "2020-04-13",
     "Afrique": {
-      "infectés": 15828,
-      "morts": 837,
-      "guéris": 2929
+      "infectés": 760,
+      "morts": 46,
+      "guéris": 107
     },
     "Amérique": {
-      "infectés": 671278,
-      "morts": 26801,
-      "guéris": 58347
+      "infectés": 28072,
+      "morts": 1363,
+      "guéris": 10445
     },
     "Asie": {
-      "infectés": 309513,
-      "morts": 11322,
-      "guéris": 150565
+      "infectés": 11817,
+      "morts": 343,
+      "guéris": 4646
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 15,
-      "guéris": 619
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 867875,
-      "morts": 79636,
-      "guéris": 221131
+      "infectés": 23560,
+      "morts": 3096,
+      "guéris": 9495
     },
     "Monde": {
-      "infectés": 1873012,
-      "morts": 118677,
-      "guéris": 435943
+      "infectés": 64264,
+      "morts": 4850,
+      "guéris": 24768
     },
     "Océanie": {
-      "infectés": 7792,
-      "morts": 66,
-      "guéris": 2352
+      "infectés": 55,
+      "morts": 2,
+      "guéris": 75
     }
   },
   {
     "date": "2020-04-14",
     "Afrique": {
-      "infectés": 16746,
-      "morts": 873,
-      "guéris": 3175
+      "infectés": 918,
+      "morts": 36,
+      "guéris": 246
     },
     "Amérique": {
-      "infectés": 701782,
-      "morts": 29515,
-      "guéris": 67800
+      "infectés": 30504,
+      "morts": 2714,
+      "guéris": 9453
     },
     "Asie": {
-      "infectés": 320600,
-      "morts": 11712,
-      "guéris": 155686
+      "infectés": 11087,
+      "morts": 390,
+      "guéris": 5121
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 16,
-      "guéris": 639
+      "infectés": 0,
+      "morts": 1,
+      "guéris": 20
     },
     "Europe": {
-      "infectés": 896971,
-      "morts": 83394,
-      "guéris": 232279
+      "infectés": 29096,
+      "morts": 3758,
+      "guéris": 11148
     },
     "Monde": {
-      "infectés": 1944698,
-      "morts": 125581,
-      "guéris": 462393
+      "infectés": 71686,
+      "morts": 6904,
+      "guéris": 26450
     },
     "Océanie": {
-      "infectés": 7873,
-      "morts": 71,
-      "guéris": 2814
+      "infectés": 81,
+      "morts": 5,
+      "guéris": 462
     }
   },
   {
     "date": "2020-04-15",
     "Afrique": {
-      "infectés": 17650,
-      "morts": 910,
-      "guéris": 3406
+      "infectés": 904,
+      "morts": 37,
+      "guéris": 231
     },
     "Amérique": {
-      "infectés": 742940,
-      "morts": 32915,
-      "guéris": 86102
+      "infectés": 41158,
+      "morts": 3400,
+      "guéris": 18302
     },
     "Asie": {
-      "infectés": 332025,
-      "morts": 12010,
-      "guéris": 159958
+      "infectés": 11425,
+      "morts": 298,
+      "guéris": 4272
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 16,
-      "guéris": 639
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 926474,
-      "morts": 87938,
-      "guéris": 245887
+      "infectés": 29503,
+      "morts": 4544,
+      "guéris": 13608
     },
     "Monde": {
-      "infectés": 2027733,
-      "morts": 133861,
-      "guéris": 498906
+      "infectés": 83035,
+      "morts": 8280,
+      "guéris": 36513
     },
     "Océanie": {
-      "infectés": 7918,
-      "morts": 72,
-      "guéris": 2914
+      "infectés": 45,
+      "morts": 1,
+      "guéris": 100
     }
   },
   {
     "date": "2020-04-16",
     "Afrique": {
-      "infectés": 18898,
-      "morts": 967,
-      "guéris": 4279
+      "infectés": 1248,
+      "morts": 57,
+      "guéris": 873
     },
     "Amérique": {
-      "infectés": 781618,
-      "morts": 38018,
-      "guéris": 92769
+      "infectés": 38678,
+      "morts": 5103,
+      "guéris": 6667
     },
     "Asie": {
-      "infectés": 344143,
-      "morts": 12380,
-      "guéris": 165440
+      "infectés": 12118,
+      "morts": 370,
+      "guéris": 5482
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 16,
-      "guéris": 644
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 5
     },
     "Europe": {
-      "infectés": 957785,
-      "morts": 91998,
-      "guéris": 262749
+      "infectés": 31311,
+      "morts": 4060,
+      "guéris": 16862
     },
     "Monde": {
-      "infectés": 2111126,
-      "morts": 143451,
-      "guéris": 529006
+      "infectés": 83393,
+      "morts": 9590,
+      "guéris": 30100
     },
     "Océanie": {
-      "infectés": 7956,
-      "morts": 72,
-      "guéris": 3125
+      "infectés": 38,
+      "morts": 0,
+      "guéris": 211
     }
   },
   {
     "date": "2020-04-17",
     "Afrique": {
-      "infectés": 20253,
-      "morts": 1014,
-      "guéris": 4597
+      "infectés": 1355,
+      "morts": 47,
+      "guéris": 318
     },
     "Amérique": {
-      "infectés": 822536,
-      "morts": 42386,
-      "guéris": 98334
+      "infectés": 40918,
+      "morts": 4368,
+      "guéris": 5565
     },
     "Asie": {
-      "infectés": 357619,
-      "morts": 14057,
-      "guéris": 169927
+      "infectés": 13476,
+      "morts": 1677,
+      "guéris": 4487
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 17,
-      "guéris": 644
+      "infectés": 0,
+      "morts": 1,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 987935,
-      "morts": 95781,
-      "guéris": 275285
+      "infectés": 30150,
+      "morts": 3783,
+      "guéris": 12536
     },
     "Monde": {
-      "infectés": 2197098,
-      "morts": 153332,
-      "guéris": 553406
+      "infectés": 85972,
+      "morts": 9881,
+      "guéris": 24400
     },
     "Océanie": {
-      "infectés": 8029,
-      "morts": 77,
-      "guéris": 4619
+      "infectés": 73,
+      "morts": 5,
+      "guéris": 1494
     }
   },
   {
     "date": "2020-04-18",
     "Afrique": {
-      "infectés": 21525,
-      "morts": 1056,
-      "guéris": 4953
+      "infectés": 1272,
+      "morts": 42,
+      "guéris": 356
     },
     "Amérique": {
-      "infectés": 862242,
-      "morts": 44677,
-      "guéris": 106140
+      "infectés": 39706,
+      "morts": 2291,
+      "guéris": 7806
     },
     "Asie": {
-      "infectés": 368125,
-      "morts": 14327,
-      "guéris": 175530
+      "infectés": 10506,
+      "morts": 270,
+      "guéris": 5603
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 17,
-      "guéris": 644
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 1018486,
-      "morts": 99230,
-      "guéris": 285657
+      "infectés": 30551,
+      "morts": 3449,
+      "guéris": 10372
     },
     "Monde": {
-      "infectés": 2279171,
-      "morts": 159385,
-      "guéris": 577915
+      "infectés": 82073,
+      "morts": 6053,
+      "guéris": 24509
     },
     "Océanie": {
-      "infectés": 8067,
-      "morts": 78,
-      "guéris": 4991
+      "infectés": 38,
+      "morts": 1,
+      "guéris": 372
     }
   },
   {
     "date": "2020-04-19",
     "Afrique": {
-      "infectés": 22557,
-      "morts": 1122,
-      "guéris": 5482
+      "infectés": 1032,
+      "morts": 66,
+      "guéris": 529
     },
     "Amérique": {
-      "infectés": 892450,
-      "morts": 46982,
-      "guéris": 110314
+      "infectés": 30208,
+      "morts": 2305,
+      "guéris": 4174
     },
     "Asie": {
-      "infectés": 382572,
-      "morts": 14777,
-      "guéris": 180610
+      "infectés": 14447,
+      "morts": 450,
+      "guéris": 5080
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 17,
-      "guéris": 644
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 1047884,
-      "morts": 101984,
-      "guéris": 295723
+      "infectés": 29398,
+      "morts": 2754,
+      "guéris": 10066
     },
     "Monde": {
-      "infectés": 2354265,
-      "morts": 164961,
-      "guéris": 597809
+      "infectés": 75094,
+      "morts": 5576,
+      "guéris": 19894
     },
     "Océanie": {
-      "infectés": 8076,
-      "morts": 79,
-      "guéris": 5036
+      "infectés": 9,
+      "morts": 1,
+      "guéris": 45
     }
   },
   {
     "date": "2020-04-20",
     "Afrique": {
-      "infectés": 23897,
-      "morts": 1161,
-      "guéris": 5986
+      "infectés": 1340,
+      "morts": 39,
+      "guéris": 504
     },
     "Amérique": {
-      "infectés": 928026,
-      "morts": 49103,
-      "guéris": 125200
+      "infectés": 35576,
+      "morts": 2121,
+      "guéris": 14886
     },
     "Asie": {
-      "infectés": 394500,
-      "morts": 15063,
-      "guéris": 186193
+      "infectés": 11928,
+      "morts": 286,
+      "guéris": 5583
     },
     "Autres": {
-      "infectés": 726,
-      "morts": 17,
-      "guéris": 644
+      "infectés": 0,
+      "morts": 0,
+      "guéris": 0
     },
     "Europe": {
-      "infectés": 1073021,
-      "morts": 104380,
-      "guéris": 306969
+      "infectés": 25137,
+      "morts": 2396,
+      "guéris": 11246
     },
     "Monde": {
-      "infectés": 2428256,
-      "morts": 169803,
-      "guéris": 630093
+      "infectés": 73991,
+      "morts": 4842,
+      "guéris": 32284
     },
     "Océanie": {
-      "infectés": 8086,
-      "morts": 79,
-      "guéris": 5101
+      "infectés": 10,
+      "morts": 0,
+      "guéris": 65
     }
   }
 ]

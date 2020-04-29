@@ -36,7 +36,7 @@ Ce jeu de données a été réalisé par Nolanne Dunet (https://www.linkedin.com
    ]
    ```
 
-   
+
 
 ## Idée
 
@@ -75,3 +75,5 @@ https://github.com/d3/d3-shape#areas
 [Ajouter des dates sur les axes](http://bl.ocks.org/phoebebright/3059392)
 
 [d3-line](https://observablehq.com/@d3/d3-line)
+
+[Ajouter des légendes](https://webdevdesigner.com/q/adding-a-chart-legend-in-d3-93675/)

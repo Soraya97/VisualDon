@@ -1,7 +1,7 @@
 const fs = require('fs')
 const R = require('ramda')
 
-const file = fs.readFileSync('COVID-19_StatsPandemie.tsv', 'utf-8')
+const file = fs.readFileSync('COVID-19_StatistiquesPandemie.tsv', 'utf-8')
 
 const [head, ...rest] = file.split('\n')
 
