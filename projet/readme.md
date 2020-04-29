@@ -13,9 +13,8 @@ Ce jeu de données a été réalisé par [Nolanne Dunet](https://www.linkedin.co
 
 1. Les données ont été [modifiées](https://github.com/Soraya97/VisualDon/blob/master/projet/data/oldData/COVID-19_StatistiquesPandemie.tsv) une première fois afin de faciliter l'extraction.
 
-2.  Les données représente le nombre total de victimes accumulées depuis le début de la pandémie, ce qui donnait une courbe exponentielle. ![image-20200429200836526](C:\Users\soray\Desktop\HEIG-VD\VisualDon\Exercices\projet\data\test\courbeExpo.jpeg)Une deuxième modification a alors été faite en soustrayant le nombre de victimes d'un jour à la veille afin d'avoir le [nombre de nouvelles victimes par jour](https://github.com/Soraya97/VisualDon/blob/master/projet/data/COVID-19_StatsPandemie.tsv) et ainsi pouvoir présenter la fluctuation du nombre de victimes.
-   ![image-20200429200854720](C:\Users\soray\AppData\Roaming\Typora\typora-user-images\image-20200429200854720.png)
-
+2.  Les données représente le nombre total de victimes accumulées depuis le début de la pandémie, ce qui donnait une courbe exponentielle. Une deuxième modification a alors été faite en soustrayant le nombre de victimes d'un jour à la veille afin d'avoir le [nombre de nouvelles victimes par jour](https://github.com/Soraya97/VisualDon/blob/master/projet/data/COVID-19_StatsPandemie.tsv) et ainsi pouvoir présenter la fluctuation du nombre de victimes.
+   
 3. Un premier script [`prepareData.js` ](https://github.com/Soraya97/VisualDon/blob/master/projet/data/prepareData.js) a été créé afin d'extraire les informations afin d'avoir un objet JSON pour chaque valeur comme ceci `{"date":"2020-01-30","region":"Monde","indicateur":"infectés","valeur":9952}`, ce qui donne un [premier jeu de données](https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataBrut.json)
 
 4. Un deuxième script [`toJSON.js` ](https://github.com/Soraya97/VisualDon/blob/master/projet/data/toJSON.js) a été fait afin d'extraire les bonnes données au final sous cette forme et donne ainsi les [données finales](https://github.com/Soraya97/VisualDon/blob/master/projet/data/dataCovid19.json)
