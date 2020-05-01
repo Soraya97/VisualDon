@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Exercice canvas</title>
+</head>
+
+<body>
+  <canvas id="dessin" width="1000" height="500"></canvas>
+  <script>
+    const canvas = document.getElementById('dessin')
+    const context = canvas.getContext('2d')
+
+    // rectangle
+    let rectX = 100
+    let rectY = 100
+    let rectW = canvas.width / 2
+    let rectH = canvas.height / 2
+
+    context.fillStyle = 'crimson'
+    context.fillRect(rectX, rectY, rectW, rectH) // x du coin en haut à gauche, y, largeur, hauteur
+    context.strokeStyle = 'maroon'
+    context.strokeRect(rectX, rectY, rectW, rectH)
+
+    // cercle
+    let arcX = rectW / 2 + rectX
+    let arcY = 100
+    let arcR = canvas.width / 10
+    let arcD = 10
+    let arcA = 90
+
+    context.beginPath()
+    context.arc(arcX, arcY, arcR, arcD, arcA) // x du centre, y, rayon, angle départ, angle arrivée
+
+    // forme complexe
+    context.moveTo((rectX + rectW), rectY)
+    context.lineTo((rectX + rectW), rectH + rectY)
+    context.lineTo((rectW / 2 + rectX), rectY)
+
+    // texte
+    context.font = '48px serif'
+    context.fillStyle = 'white'
+    context.textAlign = 'center'
+    context.fillText('127', (rectW / 2 + rectX), rectH)
+
+
+    context.fillStyle = 'indigo'
+    context.fill()
+  </script>
+</body>
+
+</html>
