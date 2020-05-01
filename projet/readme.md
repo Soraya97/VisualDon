@@ -5,8 +5,8 @@
 
 ## À faire
 
-- Passer d'un graphique à un autre
-- Améliorer le visuel
+- Passer d'un graphique à un autre (Soraya)
+- Améliorer le visuel (Leyna)
 
 ## Jeu de données
 
