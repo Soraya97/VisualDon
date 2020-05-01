@@ -44,7 +44,7 @@ Ce jeu de données a été réalisé par [Nolanne Dunet](https://www.linkedin.co
 
 ## Idée
 
-L'idée est de représenter les courbes des infectés, des morts et des guéris par continents de façon animée, afin de permettre une comparaison entre chacun.
+L'idée est de représenter les courbes des infectés, des morts et des guéris par continents avec des interactions, afin de permettre une comparaison entre chacun.
 
 ## Code source
 
