@@ -8,7 +8,7 @@
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
     "covid": "parcel src/index.html --out-dir dist",
-    "deploy": "surge dist --domain covid-datavis.surge.sh"
+    "deploy": "surge dist --domain covid-visualdon.surge.sh"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +16,7 @@
   "dependencies": {
     "d3": "^5.16.0",
     "data": "^0.6.1",
+    "jquery": "^3.5.0",
     "surge": "^0.21.3"
   },
   "devDependencies": {

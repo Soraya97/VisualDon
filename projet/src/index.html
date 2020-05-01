@@ -1,5 +1,35 @@
 <!DOCTYPE html>
 <html lang="fr">
+<style>
+
+  .yaxis line {
+    stroke: lightgrey
+  }
+
+  .legend {
+    fill: none;
+  }
+
+  .menu {
+    text-decoration: none;
+    list-style:none;
+    display: flex;
+  }
+
+  .menu li {
+    padding: 0.25rem;
+  }
+
+  h1 {
+    color: rgb(31, 31, 31);
+    font-family: arial;
+
+  }
+  text {
+    font-family: arial;
+  }
+
+</style>
 
 <head>
   <meta charset="utf-8">
@@ -7,11 +37,24 @@
 </head>
 
 <body>
-  <h1>Évolution du Covid-19</h1>
+  <header>
+    <h1>Évolution du Covid-19</h1>
+
+  </header>
+
+<button type="button" id='gueris' value="gueris">Guéris</button>
+<button type="button" id='morts' value="morts">Morts</button>
+<button type="button" id='infectes' value="infectes">Infectés</button>
+
+  <select id="selectButton"></select>
+
   <div class="covid">
 
   </div>
+
   <script src="index.js"></script>
+
+  </script>
 </body>
 
 </html>
