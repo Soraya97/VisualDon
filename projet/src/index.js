@@ -48,11 +48,11 @@ const continents = [{
 }) => ({
   nom,
   color,
-  gueris: data.map(d => ({
+  guéris: data.map(d => ({
     value: d[nom]['guéris'],
     date: d.date
   })),
-  infectes: data.map(d => ({
+  infectés: data.map(d => ({
     value: d[nom]['infectés'],
     date: d.date
   })),
@@ -70,14 +70,14 @@ const createYScale = quoi => {
   const valeursMonde = continents.find(d => d.nom === 'Monde')[quoi].map(d => d.value)
   return d3.scaleLinear()
     .domain(d3.extent(valeursMonde))
-    .range([HEIGHT - MARGIN_BOTTOM - 500, 0])
+    .range([HEIGHT - MARGIN_BOTTOM - 480, 0])
 }
 
 // Création d'une échelle par graphique
 const yScale = {
-  gueris: createYScale('gueris'),
+  guéris: createYScale('guéris'),
   morts: createYScale('morts'),
-  infectes: createYScale('infectes'),
+  infectés: createYScale('infectés'),
 }
 // fonction de dessin de l'axe y selon "quoi"
 const createYAxis = quoi =>
@@ -89,8 +89,8 @@ const createYAxis = quoi =>
 // création d'un groupe avec les axes y (avec guéris pour valeur par défaut) et dessin
 const yAxisGroup = svg.append('g')
   .attr("class", "yaxis")
-  .attr('transform', `translate(${MARGIN_LEFT}, 0)`)
-  .call(createYAxis('gueris'))
+  .attr('transform', `translate(${MARGIN_LEFT}, 20)`)
+  .call(createYAxis('guéris'))
 
 /* X axis */
 const parseTime = d3.timeParse("%Y-%m-%d")
@@ -100,12 +100,13 @@ const xScale = d3.scaleTime()
   .domain(d3.extent(data, d => parseTime(d.date)))
   .range([0, WIDTH])
 
+
 const xAxis = d3.axisBottom(xScale)
   .ticks(20)
 
 const bAxis = svg.append('g')
   .attr("class", "xaxis")
-  .attr('transform', `translate(${MARGIN_LEFT}, 450)`)
+  .attr('transform', `translate(${MARGIN_LEFT}, 490)`)
   .call(xAxis)
 
 
@@ -120,53 +121,46 @@ const getLineCreator = quoi =>
 // fonction de création des lignes (avec guéris pour valeur par défaut)
 const getLine = d =>
   svg.append("path")
-  .datum(d.gueris)
-  .attr("d", getLineCreator('gueris'))
+  .datum(d.guéris)
+  .attr("d", getLineCreator('guéris'))
   .attr('stroke', d.color)
   .attr("stroke-width", 2)
   .attr('fill', 'none')
-  .attr('transform', `translate(${MARGIN_LEFT}, 0)`)
+  .attr('transform', `translate(${MARGIN_LEFT}, 20)`)
   .attr('opacity', 1)
-
+  .on('mouseover', function (d, quoi) {
+    svg.append('text')
+    .attr('class', 'value')
+    .text('test')
+    .attr('x', 150)
+    .attr('y', 150)
+    .attr('text-anchor', 'middle')
+  })
+  .on('mouseout', function(d, i) {
+  // svg.selectAll('.value').remove()
+  })
+console.log(continents);
 // création d'un nouveau tableau withLines, similaire à continents mais avec les courbes en plus
 const withLines = continents.map(d => ({
   ...d,
-  line: getLine(d, 'gueris')
+  line: getLine(d, 'guéris')
 }))
 
 // bouton #selectButton
 const selectButton = document.getElementById('selectButton')
 
-const getSub = d =>
+const subTitle = quoi => {
+  svg.selectAll('.sub').remove()
   svg.append("text")
-  .datum(d.gueris)
-  .attr('class', 'subTitle')
-  .attr("x", MARGIN_LEFT + 5)
-  .attr("y", MARGIN_BOTTOM)
+  .attr('class', 'sub')
+  .attr("x", MARGIN_LEFT)
+  .attr("y", 12)
   .attr("text-anchor", "start")
   .style("fill", "black")
   .style("font-size", "16px")
-  .text(`Graphe des ${d.sub}`);
-
-
-// création d'un nouveau tableau withLines, similaire à continents mais avec les courbes en plus
-// const subs = withLines.map(d => ({
-//   ...d,
-//   sub: getSub(d, 'gueris')
-// }))
-// console.log(subs);
-// const subTitle = quoi => {
-//   svg.append("text")
-//   .attr('class', 'subTitle')
-//   .attr("x", MARGIN_LEFT + 5)
-//   .attr("y", MARGIN_BOTTOM)
-//   .attr("text-anchor", "start")
-//   .style("fill", "black")
-//   .style("font-size", "16px")
-//   .text(`Graphe des ${quoi}`);
-// }
-//
-// subTitle('guéris')
+  .text(`Graphe des ${quoi}`)
+}
+subTitle('guéris')
 
 // fonction mettant à jour le graphique quand le bouton change de valeur, elle prend "quoi" pour savoir quel graphique dessiner
 const update = quoi => {
@@ -181,14 +175,7 @@ const update = quoi => {
     .duration(500)
     .call(createYAxis(quoi)) // axe y est changé selon le jeu de données
 
-  // subs.map(d => {
-  //   d.sub.datum(d[quoi]) // màj des données pour chaque ligne (inclue dans d depuis continents en haut de la page)
-  //     // .transition()
-  //     // .duration(500)
-  //     .attr('d', getSub(quoi)) // d est changé avec une nouvelle ligne selon le jeu de données
-  // })
-
-  // subTitle(quoi)
+  subTitle(quoi)
 
 }
 
@@ -210,14 +197,14 @@ legend.selectAll('g')
   .each(function(d, i) {
     let g = d3.select(this).attr("class", "legend");
     g.append("rect")
-      .attr("x", MARGIN_LEFT + 8)
-      .attr("y", i * 25 + 478)
+      .attr("x", i * 60 + MARGIN_LEFT) // mettre ici la multiplication par i pour faire vertical
+      .attr("y", 518)
       .attr("width", 10)
       .attr("height", 10)
       .style("fill", d.color);
     g.append("text")
-      .attr("x", MARGIN_LEFT + 25)
-      .attr("y", i * 25 + 488)
+      .attr("x", i * 60 + MARGIN_LEFT) // mettre ici la multiplication par i pour faire vertical
+      .attr("y", 528)
       .attr("height", 30)
       .attr("width", 100)
       .style("fill", d.color)
