@@ -1,60 +1,94 @@
 <!DOCTYPE html>
 <html lang="fr">
-<style>
+  <style>
+    .yaxis line {
+        stroke: lightgrey;
+    }
 
-  .yaxis line {
-    stroke: lightgrey
-  }
+    .legend {
+        fill: none;
+        font-weight: bold;
+    }
 
-  .legend {
-    fill: none;
-  }
+    h1, h2 {
+        color: rgb(31, 31, 31);
+        font-family: 'roboto', sans-serif;
 
-  .menu {
-    text-decoration: none;
-    list-style:none;
-    display: flex;
-  }
+    }
 
-  .menu li {
-    padding: 0.25rem;
-  }
+    h1 {
+      text-align: center;
+    }
+    text, p, button {
+        font-family: 'roboto', sans-serif;
+    }
 
-  h1 {
-    color: rgb(31, 31, 31);
-    font-family: arial;
+    button {
+      background: rgb(114, 152, 255);
+      border: 0;
+      color: white;
+      padding: 0.8rem;
+      font-weight: bold;
+      user-select: none;
+      outline: none;
+      width: 33%;
+      cursor: pointer;
+      border-top-right-radius: 0.5rem;
+      border-bottom-right-radius: 0.5rem;
+      border-top-left-radius: 0.5rem;
+      border-bottom-left-radius: 0.5rem;
+      font-size: 1.2rem;
+    }
 
-  }
-  text {
-    font-family: arial;
-  }
+    button:focus {
+      background-color: DarkSlateBlue;
+      color: white;
+    }
 
-</style>
+    button:hover {
+      background-color: lightblue;
+      color :rgb(31, 31, 31)
 
-<head>
-  <meta charset="utf-8">
-  <title>Covid-19</title>
-</head>
+    }
 
-<body>
+    #introduction{
+      padding: 1.5rem;
+      margin: 1rem;
+      background: AliceBlue;
+      border-top-right-radius: 0.1rem;
+      border-bottom-right-radius: 0.1rem;
+      border-top-left-radius: 0.1rem;
+      border-bottom-left-radius: 0.1rem;
+    }
+  </style>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Covid-19</title>
+  </head>
+
+  <body>
   <header>
     <h1>Évolution du Covid-19</h1>
 
+    <div id=introduction>
+      <h2>Introduction</h2>
+      <p>Les trois graphiques représentent par des courbes, l'évolution du COVID-19 de chaque continent en fonction de <b>l’axe du nombre de personnes</b> (guéris, morts ou infectés) et <b>l’axe du temps</b>.
+      </br>
+        Il est facile de comparer les continents par rapport aux courbes de l’évolution des nombres de <b>guéris</b>, <b>morts</b> ou <b>infectés</b>.
+      </p>
+    </div>
   </header>
 
-<button type="button" id='gueris' value="gueris">Guéris</button>
-<button type="button" id='morts' value="morts">Morts</button>
-<button type="button" id='infectes' value="infectes">Infectés</button>
-
-  <select id="selectButton"></select>
-
-  <div class="covid">
-
+  <div id="selectButton">
+    <button type="button" value="gueris">GUÉRIS</button>
+    <button type="button" value="morts">MORTS</button>
+    <button type="button" value="infectes">INFECTÉS</button>
   </div>
+  <br>
+  <div class="covid"></div>
 
-  <script src="index.js"></script>
+    <script src="index.js"></script>
 
-  </script>
-</body>
-
+  </body>
 </html>
