@@ -150,16 +150,17 @@ const withLines = continents.map(d => ({
 const selectButton = document.getElementById('selectButton')
 
 const subTitle = quoi => {
-  svg.selectAll('.sub').remove()
+  svg.selectAll('.subTitle').remove()
   svg.append("text")
-  .attr('class', 'sub')
-  .attr("x", MARGIN_LEFT)
-  .attr("y", 12)
+  .attr('class', 'subTitle')
+  .attr("x", "45%")
+  .attr("y", 15)
+  .attr("text-align", "center")
   .attr("text-anchor", "start")
-  .style("fill", "black")
-  .style("font-size", "16px")
-  .text(`Graphe des ${quoi}`)
+  .style("font-size", "21px")
+  .text(`Graphe des ${quoi}`);
 }
+
 subTitle('guéris')
 
 // fonction mettant à jour le graphique quand le bouton change de valeur, elle prend "quoi" pour savoir quel graphique dessiner
@@ -197,14 +198,14 @@ legend.selectAll('g')
   .each(function(d, i) {
     let g = d3.select(this).attr("class", "legend");
     g.append("rect")
-      .attr("x", i * 60 + MARGIN_LEFT) // mettre ici la multiplication par i pour faire vertical
-      .attr("y", 518)
+      .attr("x", i * 130 + MARGIN_LEFT) // mettre ici la multiplication par i pour faire vertical
+      .attr("y", 540)
       .attr("width", 10)
       .attr("height", 10)
       .style("fill", d.color);
     g.append("text")
-      .attr("x", i * 60 + MARGIN_LEFT) // mettre ici la multiplication par i pour faire vertical
-      .attr("y", 528)
+      .attr("x", i * 130 + MARGIN_LEFT + 15) // mettre ici la multiplication par i pour faire vertical
+      .attr("y", 550)
       .attr("height", 30)
       .attr("width", 100)
       .style("fill", d.color)
