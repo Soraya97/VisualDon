@@ -2,7 +2,7 @@ import * as d3 from 'd3';
 import data from '../data/dataCovid19.json';
 
 const WIDTH = 1500
-const HEIGHT = 1000
+const HEIGHT = 700
 const MARGIN = 5
 
 const svg = d3.select('.covid')
@@ -70,7 +70,7 @@ const createYScale = quoi => {
   const valeursMonde = continents.find(d => d.nom === 'Monde')[quoi].map(d => d.value)
   return d3.scaleLinear()
     .domain(d3.extent(valeursMonde))
-    .range([HEIGHT - MARGIN_BOTTOM - 450, 0])
+    .range([HEIGHT - MARGIN_BOTTOM*3, 0])
 }
 
 // Création d'une échelle par graphique
@@ -100,13 +100,12 @@ const xScale = d3.scaleTime()
   .domain(d3.extent(data, d => parseTime(d.date)))
   .range([0, WIDTH])
 
-
 const xAxis = d3.axisBottom(xScale)
   .ticks(20)
 
 const bAxis = svg.append('g')
   .attr("class", "xaxis")
-  .attr('transform', `translate(${MARGIN_LEFT}, 550)`)
+  .attr('transform', `translate(${MARGIN_LEFT}, 600)`)
   .call(xAxis)
 
 
@@ -122,7 +121,7 @@ const getLineCreator = quoi =>
 const value = svg.append('text').attr('class', 'value').attr('text-anchor', 'middle').style("font-size", "15px")
 
 // fonction de création des lignes (avec guéris pour valeur par défaut)
-const getLine = d =>
+const getLine = (d, quoi) =>
   svg.append("path")
   .datum(d.guéris)
   .attr("d", getLineCreator('guéris'))
@@ -131,12 +130,6 @@ const getLine = d =>
   .attr('fill', 'none')
   .attr('transform', `translate(${MARGIN_LEFT}, 50)`)
   .attr('opacity', 1)
-  .on('mouseover', function(d, quoi) {
-    const [x, y] = d3.mouse(this)
-    value.attr('x', x + 50).attr('y', y + 50).text(d[0].value) // xScale.invert(x) : connaître la date
-  }).on('mouseout', function(d, i) {
-    value.text('')
-  })
 
 // création d'un nouveau tableau withLines, similaire à continents mais avec les courbes en plus
 const withLines = continents.map(d => ({
@@ -169,6 +162,12 @@ const update = quoi => {
       .transition()
       .duration(500)
       .attr('d', getLineCreator(quoi)) // d est changé avec une nouvelle ligne selon le jeu de données
+      // .on('mouseover', function() {
+      //   const [x, y] = d3.mouse(this)
+      //   value.attr('x', x + 50).attr('y', y + 50).text(yScale[quoi].invert(y)) // xScale.invert(x) : connaître la date
+      // }).on('mouseout', function(d, i) {
+      //   value.text('')
+      // })
   })
   yAxisGroup // màj de l'axe y
     .transition()
@@ -197,14 +196,14 @@ legend.selectAll('g')
   .each(function(d, i) {
     let g = d3.select(this).attr("class", "legend");
     g.append("rect")
-      .attr("x", i * 130 + MARGIN_LEFT) // mettre ici la multiplication par i pour faire vertical
-      .attr("y", 590)
+      .attr("x", i * 130 + MARGIN_LEFT)
+      .attr("y", 640)
       .attr("width", 10)
       .attr("height", 10)
       .style("fill", d.color);
     g.append("text")
-      .attr("x", i * 130 + MARGIN_LEFT + 15) // mettre ici la multiplication par i pour faire vertical
-      .attr("y", 600)
+      .attr("x", i * 130 + MARGIN_LEFT + 15)
+      .attr("y", 650)
       .attr("height", 30)
       .attr("width", 100)
       .style("fill", d.color)
@@ -220,7 +219,7 @@ legend.selectAll('g')
           .attr('opacity', '1')
       })
 
-    //**Animation**//
+    /* Animation */
     g.on('click', () => {
       d.line.attr('opacity', d.line.attr('opacity') === '0' ? 1 : 0)
     })
