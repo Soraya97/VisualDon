@@ -70,7 +70,7 @@ const createYScale = quoi => {
   const valeursMonde = continents.find(d => d.nom === 'Monde')[quoi].map(d => d.value)
   return d3.scaleLinear()
     .domain(d3.extent(valeursMonde))
-    .range([HEIGHT - MARGIN_BOTTOM - 480, 0])
+    .range([HEIGHT - MARGIN_BOTTOM - 450, 0])
 }
 
 // Création d'une échelle par graphique
@@ -82,14 +82,14 @@ const yScale = {
 // fonction de dessin de l'axe y selon "quoi"
 const createYAxis = quoi =>
   d3.axisLeft(yScale[quoi])
-  .ticks(10)
-  .tickFormat(d => `${d/1000}k`)
+  .ticks(25)
+  .tickFormat(d => d)
   .tickSize(-WIDTH, 0)
 
 // création d'un groupe avec les axes y (avec guéris pour valeur par défaut) et dessin
 const yAxisGroup = svg.append('g')
   .attr("class", "yaxis")
-  .attr('transform', `translate(${MARGIN_LEFT}, 20)`)
+  .attr('transform', `translate(${MARGIN_LEFT}, 50)`)
   .call(createYAxis('guéris'))
 
 /* X axis */
@@ -106,7 +106,7 @@ const xAxis = d3.axisBottom(xScale)
 
 const bAxis = svg.append('g')
   .attr("class", "xaxis")
-  .attr('transform', `translate(${MARGIN_LEFT}, 490)`)
+  .attr('transform', `translate(${MARGIN_LEFT}, 550)`)
   .call(xAxis)
 
 
@@ -118,6 +118,9 @@ const getLineCreator = quoi =>
   .y(d => yScale[quoi](d.value))
   .curve(d3.curveNatural)
 
+// Valeur y s'affichant au passage de la souris
+const value = svg.append('text').attr('class', 'value').attr('text-anchor', 'middle').style("font-size", "15px")
+
 // fonction de création des lignes (avec guéris pour valeur par défaut)
 const getLine = d =>
   svg.append("path")
@@ -126,20 +129,15 @@ const getLine = d =>
   .attr('stroke', d.color)
   .attr("stroke-width", 2)
   .attr('fill', 'none')
-  .attr('transform', `translate(${MARGIN_LEFT}, 20)`)
+  .attr('transform', `translate(${MARGIN_LEFT}, 50)`)
   .attr('opacity', 1)
-  .on('mouseover', function (d, quoi) {
-    svg.append('text')
-    .attr('class', 'value')
-    .text('test')
-    .attr('x', 150)
-    .attr('y', 150)
-    .attr('text-anchor', 'middle')
+  .on('mouseover', function(d, quoi) {
+    const [x, y] = d3.mouse(this)
+    value.attr('x', x + 50).attr('y', y + 50).text(d[0].value) // xScale.invert(x) : connaître la date
+  }).on('mouseout', function(d, i) {
+    value.text('')
   })
-  .on('mouseout', function(d, i) {
-  // svg.selectAll('.value').remove()
-  })
-console.log(continents);
+
 // création d'un nouveau tableau withLines, similaire à continents mais avec les courbes en plus
 const withLines = continents.map(d => ({
   ...d,
@@ -149,16 +147,17 @@ const withLines = continents.map(d => ({
 // bouton #selectButton
 const selectButton = document.getElementById('selectButton')
 
+// Fonction pour changer de sous-titre
 const subTitle = quoi => {
   svg.selectAll('.subTitle').remove()
   svg.append("text")
-  .attr('class', 'subTitle')
-  .attr("x", "45%")
-  .attr("y", 15)
-  .attr("text-align", "center")
-  .attr("text-anchor", "start")
-  .style("font-size", "21px")
-  .text(`Graphe des ${quoi}`);
+    .attr('class', 'subTitle')
+    .attr("x", "45%")
+    .attr("y", 25)
+    .attr("text-align", "center")
+    .attr("text-anchor", "start")
+    .style("font-size", "21px")
+    .text(`Graphe des ${quoi}`);
 }
 
 subTitle('guéris')
@@ -176,7 +175,7 @@ const update = quoi => {
     .duration(500)
     .call(createYAxis(quoi)) // axe y est changé selon le jeu de données
 
-  subTitle(quoi)
+  subTitle(quoi) // màj du sous-titre
 
 }
 
@@ -199,13 +198,13 @@ legend.selectAll('g')
     let g = d3.select(this).attr("class", "legend");
     g.append("rect")
       .attr("x", i * 130 + MARGIN_LEFT) // mettre ici la multiplication par i pour faire vertical
-      .attr("y", 540)
+      .attr("y", 590)
       .attr("width", 10)
       .attr("height", 10)
       .style("fill", d.color);
     g.append("text")
       .attr("x", i * 130 + MARGIN_LEFT + 15) // mettre ici la multiplication par i pour faire vertical
-      .attr("y", 550)
+      .attr("y", 600)
       .attr("height", 30)
       .attr("width", 100)
       .style("fill", d.color)
