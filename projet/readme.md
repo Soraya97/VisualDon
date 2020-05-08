@@ -52,9 +52,19 @@ https://covid-visualdon.surge.sh/
 
 ## Scripte à utiliser
 
-npm run covid pour faire tourner le code en local;
+À ajouter dans le fichier `package.json`:
 
-npm run deploy pour le déployer sur la visualisation publiée.
+```json
+"covid": "parcel src/index.html --out-dir dist"
+```
+
+Ce script permet de faire tourner le code en local.
+
+```json
+"deploy": "surge dist --domain covid-visualdon.surge.sh"
+```
+
+Celui-là permet de le déployer sur lien de la visualisation publiée.
 
 ## Liens utiles
 
