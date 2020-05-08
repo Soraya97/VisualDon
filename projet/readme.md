@@ -50,7 +50,7 @@ https://github.com/Soraya97/VisualDon/tree/master/projet/src
 
 https://covid-visualdon.surge.sh/
 
-## Scripte à utiliser
+## Scripts à utiliser
 
 À ajouter dans le fichier `package.json`:
 
